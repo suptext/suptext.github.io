@@ -7,7 +7,7 @@ toc: false
 
 ___
 
-<div class="grid grid-cols-2">
+<div class="grid grid-cols-2" style="max-width:512px;">
   <div class="card" style="max-width: 256px;">
     <h2>First post</h2>
     <h3>Testing the server</h3>
