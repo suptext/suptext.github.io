@@ -2,11 +2,6 @@
 toc: false
 ---
 
-# suptext
-## notes and analyses
-
-___
-
 <div class="grid grid-cols-2" style="max-width:512px;">
   <div class="card" style="max-width: 256px;">
     <a href="./view/post(24.04.03)Wed">
