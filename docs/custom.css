@@ -1,6 +1,26 @@
 @import url("observablehq:default.css");
 @import url("observablehq:theme-sun-faded.css");
 
+.home {
+   max-width:642px;
+}
+
+.article {
+   max-width: calc(640px - 2rem);
+}
+
 #observablehq-footer {
-   margin-top:3rem;
+   margin-top:2rem;
+}
+
+#observablehq-sidebar {
+  visibility:hidden!important;
+} 
+
+#observablehq-center {
+  padding-left:unset!important;
+}
+
+#observablehq-sidebar-toggle {
+   display:none!important;
 }

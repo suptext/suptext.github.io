@@ -5,7 +5,7 @@ import * as fs from 'fs';
 
 const header = `
   <h1><a href="./">suptext</a></h1>
-  <h2>notes and analyses</h2>
+  <h2>what it says on the tin</h2>
   <hr/>`
 
 // See https://observablehq.com/framework/config for documentation.
