@@ -1,12 +1,8 @@
 import * as fs from 'fs';
+import header from './docs/comp/header.js'
 
 // const dir = './docs/view'
 // let files = await getFiles(dir); 
-
-const header = `
-  <h1><a href="./">suptext</a></h1>
-  <h2>what it says on the tin</h2>
-  <hr/>`
 
 // See https://observablehq.com/framework/config for documentation.
 export default {

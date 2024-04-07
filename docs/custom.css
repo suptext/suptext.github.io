@@ -5,6 +5,21 @@
    max-width:642px;
 }
 
+main:has([href="#post"]) {
+
+   background: var(--theme-background-alt);
+   border: 1px solid var(--theme-foreground-faintest)!important;
+   border-radius: 0.75rem;
+   padding:1rem;
+   margin: 1rem 0;
+   max-width: calc(640px - 2rem)!important;
+}
+
+#observablehq-main {
+  margin:unset;
+  left:max(0rem,calc(50% - 640px + 4rem));
+}
+
 .article {
    max-width: calc(640px - 2rem);
 }
