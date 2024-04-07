@@ -31,8 +31,9 @@ export default {
 
   // Some additional configuration options and their defaults:
      theme: ["dark","alt","sun-faded"], // try "light", "dark", "slate", etc.
+     // head: `<meta name="view-transition" content="same-origin" />`,
      header, // what to show in the header (HTML)
-     footer, // what to show in the footer (HTML)
+     footer: "", // what to show in the footer (HTML)
      toc: false, // whether to show the table of contents
      pager: true, // whether to show previous & next links in the footer
   // root: "docs", // path to the source root for preview

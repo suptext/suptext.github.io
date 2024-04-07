@@ -18,7 +18,7 @@ function anim() {
 
 
 const footer = `<script>${
-    main.toString().replace("function anim() {",'').replace(/\}$/gm,'')
+    anim.toString().replace("function anim() {",'').replace(/\}$/gm,'')
 }</script>`
 
 export default footer
