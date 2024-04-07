@@ -5,6 +5,7 @@
    max-width:642px;
 }
 
+
 main:has([href="#post"]) {
 
    background: var(--theme-background-alt);
@@ -39,3 +40,23 @@ main:has([href="#post"]) {
 #observablehq-sidebar-toggle {
    display:none!important;
 }
+
+.el {
+   width: 80%;
+   max-width: 400px;
+   border-radius: 8px;
+   text-align: center;
+   padding: 20px;
+ }
+ 
+ .first {
+   view-transition-name: first;
+   background: tomato;
+   color: white;
+ }
+ 
+ .second {
+   view-transition-name: second;
+   background: black;
+   color: white;
+ }

@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import header from './docs/comp/header.js'
+import footer from './docs/comp/footer.js'
 
 // const dir = './docs/view'
 // let files = await getFiles(dir); 
@@ -31,7 +32,7 @@ export default {
   // Some additional configuration options and their defaults:
      theme: ["dark","alt","sun-faded"], // try "light", "dark", "slate", etc.
      header, // what to show in the header (HTML)
-     footer: "", // what to show in the footer (HTML)
+     footer, // what to show in the footer (HTML)
      toc: false, // whether to show the table of contents
      pager: true, // whether to show previous & next links in the footer
   // root: "docs", // path to the source root for preview
