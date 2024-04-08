@@ -13,14 +13,24 @@ body:not(:has([href="#post"])) footer nav {
   display: none !important;;
 }
 
+.card {
+  border:unset;
+  border-radius:0;
+  border-bottom: 1px solid var(--theme-foreground-faintest)!important;
+}
+
+#observablehq-footer nav a {
+  border-radius:0;
+}
+
 main:has([href="#post"]) {
 
    view-transition-name: hero;
 
    view-transition-name: hero;
    background: var(--theme-background-alt);
-   border: 1px solid var(--theme-foreground-faintest)!important;
-   border-radius: 0.75rem;
+   border-top: 1px solid var(--theme-foreground-faintest)!important;
+   // border-radius: 0.75rem;
    padding:1rem;
    margin: 1rem 0;
    max-width: calc(640px - 2rem)!important;
