@@ -9,6 +9,10 @@ body {
    font: 16px / 1.5 var(--serif);
 }
 
+body:not(:has([href="#post"])) footer nav {
+  display: none !important;;
+}
+
 main:has([href="#post"]) {
 
    view-transition-name: hero;

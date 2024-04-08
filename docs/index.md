@@ -2,6 +2,8 @@
 toc: false
 ---
 
+
+
 <div class="home grid grid-cols-2" style="view-transition-name: hero;">
   <div class="card">
     <a rel="next" href="./made/24/4/3">
