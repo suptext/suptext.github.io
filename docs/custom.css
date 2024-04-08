@@ -6,7 +6,7 @@
 }
 
 body {
-   font: 15px / 1.5 var(--serif);
+   font: 16px / 1.5 var(--serif);
 }
 
 main:has([href="#post"]) {
@@ -17,9 +17,9 @@ main:has([href="#post"]) {
    background: var(--theme-background-alt);
    border: 1px solid var(--theme-foreground-faintest)!important;
    border-radius: 0.75rem;
-   padding:2rem;
+   padding:1rem;
    margin: 1rem 0;
-   max-width: calc(640px - 4rem)!important;
+   max-width: calc(640px - 2rem)!important;
 }
 
 #observablehq-main {
