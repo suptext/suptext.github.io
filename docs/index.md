@@ -1,6 +1,5 @@
 ---
 toc: false
-title: say less no more
 ---
 
 <div class="home grid grid-cols-2" style="view-transition-name: hero;">

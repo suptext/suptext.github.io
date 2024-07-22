@@ -41,13 +41,13 @@ main h3 {
 }
 
 header > h1 {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   letter-spacing: 5px;
   font-family: var(--sans-serif);
   & + h2 {
     font-family: var(--serif);
     color: var(--theme-foreground-faint);
-    font-size:1em;
+    font-size:1.025rem;
   }
 }
 
@@ -68,9 +68,10 @@ body:not(:has([href="#post"])) footer nav {
 .card {
   border:unset;
   border-radius:3px;
+  padding:unset;
   padding-block-start: 1.25em; 
   padding-block-end:1.1em; 
-  padding-inline:1.25em;
+  padding-inline-start:1.25em;
   border-bottom: 1px solid var(--theme-foreground-faintest)!important;
   
   & h2 {
