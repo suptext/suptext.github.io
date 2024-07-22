@@ -23,4 +23,4 @@ While this method allows you to circumvent many anti-scraping measures, it comes
 But the more we are delegated to scraping the platform barrels, the more we may have to turn to the heap as our most future-proof scraper yet. Or at least, until another sandbox is built around it.
 
 ### Links
-- [*Web scraping via Javascript Heap Snapshots*](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots). Cooney, Adrian (2022). 
+> Cooney, Adrian (2022). [*Web scraping via Javascript Heap Snapshots*](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots).
