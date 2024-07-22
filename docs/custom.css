@@ -19,7 +19,7 @@ main h1:has(+ h2) {
 
   & + h2 {
     font-family: var(--serif);
-    font-size:1em;
+    font-size:1.1em;
     color: var(--theme-foreground-faint);
 
     &:after {
@@ -61,7 +61,11 @@ body {
 
 @media (pointer:none), (pointer:coarse) {
   body {
-    font: 16px / 1.5 var(--serif);
+    font: 15.5px / 1.5 var(--serif);
+  }
+  code 
+    { 
+    font-size:12px;
   }
 }
 
@@ -101,7 +105,7 @@ main:has([href="#post"]) {
 
    view-transition-name: hero;
    background: var(--theme-background-alt);
-   border-top: 1px solid var(--theme-foreground-faintest)!important;
+   /*border-top: 1px solid var(--theme-foreground-faintest)!important;*/
    border-bottom: 1px solid var(--theme-foreground-faintest)!important;
    /* border-radius: 0.75rem;*/
    padding:2rem;

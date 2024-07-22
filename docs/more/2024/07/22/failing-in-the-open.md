@@ -8,7 +8,7 @@ import count from "/comp/words.js"
 ```
 
 # We need more failure
-## How to tend to massively broken systems [](#post)
+## Tending to massively broken systems [](#post)
 [`22 July 2024`](#lead) / ${count('p:has(> [href="#lead"])  ~ *')}
 
 > *A kernel issue so massive, unprecedented, impactful* — why is it we only tend to care about our technical reliance *after* the fail-safes have been broken?
