@@ -47,7 +47,7 @@ header > h1 {
   & + h2 {
     font-family: var(--serif);
     color: var(--theme-foreground-faint);
-    font-size:1.025rem;
+    font-size:1.03rem;
   }
 }
 
