@@ -11,7 +11,7 @@ html {
 
 main h1:has(+ h2) { 
   
-  font-size: 1.15em;
+  font-size: 1.1em;
   font-family: var(--sans-serif);
   color: var(--theme-foreground);
   
@@ -19,7 +19,7 @@ main h1:has(+ h2) {
 
   & + h2 {
     font-family: var(--serif);
-    font-size:1.1em;
+    font-size:1em;
     color: var(--theme-foreground-faint);
 
     &:after {

@@ -3,10 +3,14 @@ toc: false
 title: Scraping the barrel (2024)
 ---
 
+```js
+import count from "/comp/words.js"
+```
+
 # Scraping the barrel
 ## Getting research data from heap snapshots [](#post)
+[`15 March 2024`](#lead) / ${count('p:has(> [href="#lead"]) ~ *')} `> ICA 2024 Post-API Conference`
 
-`15 March 2024` `| ICA 2024 Post-API Conference`
 > The iron grip of Chrome has become a major factor in how the web is structured and accessed. 
 > 'Manifest V3', the not-so-private 'Privacy Sandbox' and 'Ad Topics' all seem to serve the interests of a single parent—Google. 
 

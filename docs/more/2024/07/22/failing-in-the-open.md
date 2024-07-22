@@ -3,16 +3,20 @@ toc: false
 title: We need more failure (2024)
 ---
 
+```js
+import count from "/comp/words.js"
+```
+
 # We need more failure
 ## How to tend to massively broken systems [](#post)
+[`22 July 2024`](#lead) / ${count('p:has(> [href="#lead"])  ~ *')}
 
-`22 July 2024`
-> A kernel issue so massive, unprecedented, impactful — why is it we only tend to care about our technical reliance *after* the fail-safes have been broken? 
+> *A kernel issue so massive, unprecedented, impactful* — why is it we only tend to care about our technical reliance *after* the fail-safes have been broken?
 
 Leaving our house without a phone, being offline in a new city, losing access to an important account … these are things we generally try to avoid, as even the smallest hiccup in our familiar technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 In light of this, why are we not more concerned about *all* the flimsy technical layers and fabrics that envelop our lives *before* they imminently rip?
 
-While the double Crowdstrike/Azure security whammy unfolding over the weekend had everyone up its arms, on any normal day the extent of our technical concerns rarely begins before most foundations of our systems have given out. 
+While the double Crowdstrike / Azure security whammy unfolding over the weekend had everyone up its arms, on any normal day the extent of our technical concerns rarely begins before most foundations of our systems have given out. 
 When a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — cost projections have since ran into the billions, with almost as many lives and occupations afflicted and no less concerned sysadmins faces. 
 A wake-up call, if you or any of your company devices were unlucky enough to have been fed the unduly update.
 
