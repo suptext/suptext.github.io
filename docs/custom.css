@@ -43,7 +43,11 @@ main :is(p):last-child {
   margin-block-end: unset;
 }
 
-header>h1 {
+header {
+  position:relative;
+}
+
+header > h1 {
   font-size: 1.75rem;
   letter-spacing: 0.31rem;
   font-family: var(--sans-serif);
@@ -120,10 +124,11 @@ body:not(:has([href="#post"])) footer nav {
   &:after {
     content: "";
     position: absolute;
-    right: -10px;
+    right: -22px;
     top: -30px;
-    width: 20px;
+    width: 30px;
     height: 100%;
+
 
     transform: rotate(-45deg);
     background-color: rgb(180, 155, 155);
