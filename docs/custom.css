@@ -57,7 +57,7 @@ body {
 
 @media (pointer:none), (pointer:coarse) {
   body {
-    font: 15px / 1.5 var(--serif);
+    font: 16px / 1.5 var(--serif);
   }
 }
 
@@ -102,6 +102,13 @@ main:has([href="#post"]) {
    padding:2rem;
    margin: 1rem 0;
    max-width: calc(640px - 4rem)!important;
+}
+
+@media (pointer:none), (pointer:coarse) {
+  main:has([href="#post"]) {
+    padding:1rem;
+    max-width: calc(640px - 2rem)!important;
+  }
 }
 
 #observablehq-main {
