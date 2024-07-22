@@ -1,6 +1,6 @@
 ---
 toc: false
-title: Whose stack is it anyway? (2024)
+title: Whose stack is it anyway?
 ---
 
 ```js

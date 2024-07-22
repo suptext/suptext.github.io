@@ -1,6 +1,6 @@
 ---
 toc: false
-title: We need more failure (2024)
+title: We need more failure
 ---
 
 ```js

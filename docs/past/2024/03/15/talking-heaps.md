@@ -1,6 +1,6 @@
 ---
 toc: false
-title: Scraping the barrel (2024)
+title: Scraping the barrel
 ---
 
 ```js
