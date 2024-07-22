@@ -4,7 +4,7 @@ toc: false
 
 <div class="home grid grid-cols-2" style="view-transition-name: hero;">
   
-  <div class="card">
+  <div class="card bookmark">
     <a rel="next" href="./more/2024/07/22/failing-in-the-open">
       <h2>We need more failure</h2>
       <h3>How to tend to massively broken systems</h3>
