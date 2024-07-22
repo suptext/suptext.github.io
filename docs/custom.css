@@ -238,3 +238,7 @@ main:has([href="#post"]) {
   top:0.4rem;
   right: 0;
 }
+
+[alt="hide"] {
+  display:none;
+}

@@ -31,7 +31,12 @@ export default {
 
   // Some additional configuration options and their defaults:
      theme: ["dark","alt","sun-faded"], // try "light", "dark", "slate", etc.
-     head: `<meta name="view-transition" content="same-origin" />`,
+     head: `<meta name="view-transition" content="same-origin" />
+     <meta name="title" property="og:title" content="suptext" />
+     <meta name="type" property="og:type" content="website" />
+     <meta name="description" property="og:description" content="thoughts on tools, language a development" />
+     <meta name="image" property="og:image" content="https://suptext.is/_file/imgs/logo.1a7c0c17.png" />
+     <meta name="url" property="og:url" content="https://suptext.is" />`,
      header, // what to show in the header (HTML)
      footer: `<hr/><i>My thoughts on tools, language and development and what's behind them.</i>`, // what to show in the footer (HTML)
      toc: false, // whether to show the table of contents
