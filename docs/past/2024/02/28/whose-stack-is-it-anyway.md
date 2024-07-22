@@ -14,8 +14,8 @@ import count from "/comp/words.js"
 > *Choosing the right tech for our projects often feels nothing short of a gamble. 
 > Whether you're building research or industry products, the tools we use often remain veiled in shrouds of technical terms, outdated dependencies and obscure documentation—if available at all.* 
 
-*The stack*, or more often, *your stack*, comprises the very tooling infrastructure that enables you to do technical work, from charting data to packaging websites and authoring collaborative documents to hosting fully distributed computing clusters. 
-Ideally, meticulously organised (but more likely barely standing), these towering builds can be found at any scale: take out one piece and watch them come tumbling down.
+The *stack*, or more apt, *your stack*, comprises the the tooling, systems and infrastructure that enables you to do technical work, from charting data to packaging websites and authoring collaborative documents to hosting fully distributed computing clusters. 
+Ideally meticulously organised (but more likely barely standing), these towering builds can be found at any scale: take out one piece and watch them come tumbling down.
 
 More concretely, stacks compromise the soft- and hardware components, tools, chains and modules that your project simply cannot function without (Leeftink & Angus, 2022)/
 Or rather, no project can function without: all our digital work depends on a long-winded road of developer considerations stretching as far as the first operating systems and likely much further. 
@@ -41,4 +41,4 @@ The rules are simple:
 There is room for 24 participants. For effective participation, please register a GitHub account and bring a connected device,
 
 ### References
-> `Leeftink & Angus (2022) > `[*`The Research Stack: A Framework for Data-driven Humanities and Social Science`*](https://sk.sagepub.com/reference/the-sage-handbook-of-digital-society/i1189.xml)`. The SAGE Handbook of Digital Society, 131.`
+`> Leeftink & Angus (2022) > `[*`The Research Stack: A Framework for Data-driven Humanities and Social Science`*](https://sk.sagepub.com/reference/the-sage-handbook-of-digital-society/i1189.xml)`. The SAGE Handbook of Digital Society, 131.`
