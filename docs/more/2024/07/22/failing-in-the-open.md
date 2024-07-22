@@ -4,7 +4,7 @@ title: We need more failure
 ---
 
 # We need more failure
-## How to tend to massively broken systems? [](#post)
+## Tending to massively broken systems [](#post)
 
 `22 July 2024`
 > A kernel issue so massive, unprecedented, impactful — why is it we only tend to care about our technical dependencies *after* the fail-safes have been broken? 

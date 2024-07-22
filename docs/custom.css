@@ -58,7 +58,9 @@ body:not(:has([href="#post"])) footer nav {
 .card {
   border:unset;
   border-radius:3px;
-  padding: 1.25em;  
+  padding-block-start: 1.25em; 
+  padding-block-end:1.1em; 
+  padding-inline:1.25em;
   border-bottom: 1px solid var(--theme-foreground-faintest)!important;
   
   & h2 {

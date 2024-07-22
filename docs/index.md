@@ -10,8 +10,14 @@ toc: false
     </a>
   </div>
   <div class="card">
+    <a rel="next" href="./past/2024/03/15/talking-heaps">
+      <h2>Scraping the barrel</h2>
+      <h3>Getting research data from heap snapshots</h3>
+    </a>
+  </div>
+  <div class="card">
     <a rel="next" href="./more/2024/07/22/failing-in-the-open">
-      <h2>We need failure |</h2>
+      <h2>We need failure</h2>
       <h3>How to tend to massively broken systems</h3>
     </a>
   </div>
