@@ -106,8 +106,8 @@ main:has([href="#post"]) {
 
 @media (pointer:none), (pointer:coarse) {
   main:has([href="#post"]) {
-    padding:1.25rem;
-    max-width: calc(640px - 2.5rem)!important;
+    padding:1.5rem;
+    max-width: calc(640px - 3rem)!important;
   }
 }
 
