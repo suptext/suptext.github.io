@@ -56,7 +56,7 @@ export default {
      <link rel="shortcut icon" href="/icon/favicon.ico"> 
      <link rel="manifest" href="/icon/site.webmanifest">`,
      header, // what to show in the header (HTML)
-     footer: `<hr/><i>My thoughts on tools, language and development and what's behind them.</i>`, // what to show in the footer (HTML)
+     footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i>`, // what to show in the footer (HTML)
      toc: false, // whether to show the table of contents
   // pager: true, // whether to show previous & next links in the footer
   // root: "docs", // path to the source root for preview
