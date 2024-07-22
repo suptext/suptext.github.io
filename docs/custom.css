@@ -45,7 +45,7 @@ main :is(p):last-child {
 
 header>h1 {
   font-size: 1.75rem;
-  letter-spacing: 0.32rem;
+  letter-spacing: 0.31rem;
   font-family: var(--sans-serif);
 
   &+h2 {
