@@ -11,8 +11,8 @@ import count from "/comp/words.js"
 ## A technical guesing game [](#post)
 [`28 February 2024`](#lead) / ${count('p:has(> [href="#lead"]) ~ *')} `> AoIR 2024 workshop submission` 
 
-> Choosing the right tech for our projects can feel nothing short of a gamble. 
-> Whether you're building research or industry products, the tools we use often remain veiled in shrouds of technical terms, outdated dependencies and obscure documentation—if available at all. 
+> *Choosing the right tech for our projects often feels nothing short of a gamble. 
+> Whether you're building research or industry products, the tools we use often remain veiled in shrouds of technical terms, outdated dependencies and obscure documentation—if available at all.* 
 
 *The stack*, or more often, *your stack*, comprises the very tooling infrastructure that enables you to do technical work, from charting data to packaging websites and authoring collaborative documents to hosting fully distributed computing clusters. 
 Ideally, meticulously organised (but more likely barely standing), these towering builds can be found at any scale: take out one piece and watch them come tumbling down.

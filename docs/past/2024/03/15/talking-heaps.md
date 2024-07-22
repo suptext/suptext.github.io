@@ -11,8 +11,8 @@ import count from "/comp/words.js"
 ## Getting research data from heap snapshots [](#post)
 [`15 March 2024`](#lead) / ${count('p:has(> [href="#lead"]) ~ *')} `> ICA 2024 Post-API Conference`
 
-> The iron grip of Chrome has become a major factor in how the web is structured and accessed. 
-> 'Manifest V3', the not-so-private 'Privacy Sandbox' and 'Ad Topics' all seem to serve the interests of a single parent—Google. 
+> *The iron grip of Chrome has become a major factor in how the web is structured and accessed. 
+> 'Manifest V3', the not-so-private 'Privacy Sandbox' and 'Ad Topics' all seem to serve the interests of a single parent—Google.*
 
 But while its grip seems to tighten at the surface, Chrome's Dev Tools still provides developers and researchers alike unprecedented access to the V8 engine and Chromium runtime. 
 At a moment when websites and platforms are turning to increasingly draconian anti-scraping measures, Chrome's browser Console and Network profiling tabs as well as its DOM, Sources and Property inspectors still provide more than enough handles to unpack and navigate any complex web app.

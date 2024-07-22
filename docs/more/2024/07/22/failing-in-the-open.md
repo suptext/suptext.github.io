@@ -11,7 +11,7 @@ import count from "/comp/words.js"
 ## Tending to massively broken systems [](#post) [](#bookmark)
 [`22 July 2024`](#lead) / ${count('p:has(> [href="#lead"])  ~ *')}
 
-> *A kernel issue so massive, unprecedented, impactful* — why is it we only tend to care about our technical reliance *after* the fail-safes have been broken?
+> *A kernel issue so massive, unprecedented, impactful* ... why is it we only tend to care about our technical reliance *after* the fail-safes have been broken?
 
 Leaving our house without a phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid, as even the smallest hiccup in our familiar technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 When facing with this, why are we not more concerned about *all* the flimsy technical layers and facbrics that envelop our lives *before* they imminently rip?
