@@ -124,7 +124,7 @@ body:not(:has([href="#post"])) footer nav {
   &:after {
     content: "";
     position: absolute;
-    right: -22px;
+    right: -25px;
     top: -30px;
     width: 30px;
     height: 100%;
