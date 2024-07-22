@@ -7,7 +7,7 @@ toc: false
   <div class="card bookmark">
     <a rel="next" href="./more/2024/07/22/failing-in-the-open">
       <h2>We need more failure</h2>
-      <h3>How to tend to massively broken systems</h3>
+      <h3>How to mend massively broken systems</h3>
     </a>
   </div>
 
@@ -30,3 +30,6 @@ toc: false
 
 ![hide](./imgs/icon.png)
 ![hide](./imgs/logo.png)
+
+![hide](./icon/android-chrome-192x192.png)
+![hide](./icon/android-chrome-512x512.png)
