@@ -347,12 +347,12 @@ main h1:first-child {
     border-block-start: solid 1rem var(--theme-background-alt);
 
     margin-bottom: 0.05rem;
-    border-block-end: solid calc(0.5rem) var(--theme-background-alt);
+    border-block-end: solid calc(0.42rem) var(--theme-background-alt);
 
     margin-inline: calc(-0.5rem);
     border-inline: solid 0.5rem var(--theme-background-alt);
 
-    box-shadow: var(--theme-background-alt) 0px -2px 24px;
+    box-shadow: var(--theme-background-alt) 0px 0px 24px;
 
     &:after {
       content: "";
