@@ -346,7 +346,7 @@ main h1:first-child {
     margin-top: -1rem;
     border-block-start: solid 1rem var(--theme-background-alt);
 
-    margin-bottom: 0.1rem;
+    margin-bottom: 0.05rem;
     border-block-end: solid calc(0.5rem) var(--theme-background-alt);
 
     margin-inline: calc(-0.5rem);
