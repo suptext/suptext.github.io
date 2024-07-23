@@ -322,7 +322,7 @@ html {
   display:block;
   margin-bottom: -2px; /* 1.5px for mobile preview */
   margin-inline-start: -2rem;
-  margin-inline-end: -0.05rem;
+  margin-inline-end: -2px;
   transform-origin: 0rem 50%;
   height:2px;
   background-color: #f09a6f;
