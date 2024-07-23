@@ -57,7 +57,7 @@ Most of our technical struggles however, reach far beyond remedying the untimely
 In fact, even *admitting* to being stalled on some issue, we are often ashamed of our apparent illiteracy. 
 No wonder that in our heavily platformised, multi-app work environments where some are dragging 20+ years of personal data footprints, our attention for the latest and greatest tools while managing existing ones is being spread all too thin.
 
-### Fail proficient
+### Fail proficiently
 It is no secret that leaning into one software ecosystem makes switching to another all the costlier as time goes on. 
 At the same time, there is no guarantee that whatever ecosystem we choose now will be around tomorrow.
 In my experience of building academic research tools however, this budding ‘time creep’ is mostly an afterthought or rarely considered during the initial phases of a project. 
