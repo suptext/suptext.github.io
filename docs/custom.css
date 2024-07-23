@@ -127,9 +127,21 @@ body:not(:has([href="#post"])) footer nav {
   }
 }
 
-#observablehq-footer nav a {
-  border-radius: 0;
-}
+#observablehq-footer nav {
+  a { 
+    border-radius: 0;
+    padding: 0.75 rem;
+    /*span {
+      font-size:unset;
+    }*/
+  }
+
+  a:nth-child(2) {
+      span {
+      text-align:end;
+    }
+  }
+} 
 
 #observablehq-main:has([href="#post"]) {
 
