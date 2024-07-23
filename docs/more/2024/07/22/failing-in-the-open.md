@@ -9,7 +9,7 @@ title: We need more failure
 
 > *A kernel issue so massive, unprecedented, impactful: why is it we only tend to care about our technical dependencies after the failsafes have been broken?*
 
-Leaving the house without a phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
+Leaving the house without a phone, being offline in a new city, losing access to an important account... these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 When faced with this, why are we not more concerned about *all* the flimsy technical layers and facbrics that envelop our lives *before* they imminently rip?
 
 While the double Crowdstrike / Azure security whammy unfolding over the weekend had everyone up its arms, on any normal day the extent of our technical concerns rarely begins before most foundations of our systems have given out. 
