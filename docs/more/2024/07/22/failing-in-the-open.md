@@ -7,7 +7,7 @@ title: We need more failure
 ## Tending to massively broken systems [](#post) [](#bookmark)
 [`22 July 2024`](#lead) `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
-> *A kernel issue so massive, unprecedented, impactful —  why is it we only start caring about our technical dependencies after the failsafes have been broken?*
+> *A technical outage so massive, unprecedented, impactful —  why is it we only care about our technical dependencies after the failsafes have been broken?*
 
 Leaving the house without a phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid. The smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 Faced with this, why are we not more concerned about all the flimsy technical layers and facbrics that envelop our lives, *before* they imminently rip?
