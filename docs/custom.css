@@ -172,6 +172,13 @@ body:not(:has([href="#post"])) footer nav {
   hyphens:auto;
 }
 
+code,.bio {
+  hyphens:none;
+  * { 
+    font-family: var(--monospace)!important;
+    font-style:unset!important;
+  }
+}
 
 @media (pointer:none),
 (pointer:coarse) {
