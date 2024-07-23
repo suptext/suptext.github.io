@@ -12,10 +12,10 @@ title: Whose stack is it anyway?
 
 The *stack* or rather, *your* stack, encompasses all the tooling, systems and infrastructure that enables you to do technical work,
 ranging from plotting data to packaging websites and from authoring collaborative documents to hosting fully distributed computing clusters. 
-Ideally meticulously organised (but more likely barely standing), these towering builds can be found at any scale —
+Ideally meticulously organised but more likely barely standing, these towering builds can be found at any scale —
 take out one piece and watch them come down like a stack of bricks.
 
-More concretely, stacks compromise the software and hardware, toolchains and modules that your project simply cannot function without (Leeftink & Angus, 2022).
+More concretely, stacks compromise the software, hardware, toolchains and modules that your project simply cannot function without (Leeftink & Angus, 2022).
 In fact, no project can function without: all our digital work depends on a long-winded road of developer considerations stretching as far as the first operating systems and likely much further. 
 When operational, 'just' a friendly interface to our files and data, but once something breaks... good luck sifting through year old bulletin boards, cryptic help messages and 240p instructional videos to retrieve that flag you should have set during installation, comfortably tucked in a five-level deep config file.
 
