@@ -25,7 +25,7 @@ When developer considerations are distributed this far and wide, you cannot help
 
 ### Game setup
 This workshop is based on a collaborative game where we try to answer just that. 
-Your participation will attune you to the popular (but often obfuscated stacks) used within industry and academia and the non-level playing fields on which they are built. 
+Your participation will attune you to the popular but often obtuse stacks used within industry and academia and the non-level playing fields on which they are built. 
 Contestants are given pointers to map a (research) stack of choice, and through role reversal are given the opportunity to guess which industry or academic players were involved in their creation. 
 The rules are simple:
 
