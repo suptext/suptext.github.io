@@ -153,6 +153,11 @@ body:not(:has([href="#post"])) footer nav {
   }
 }*/
 
+
+#observablehq-header {
+  margin:0.6rem auto;
+}
+
 #observablehq-main {
   margin: unset;
   min-height: unset;
@@ -173,6 +178,9 @@ body:not(:has([href="#post"])) footer nav {
   #observablehq-main:has([href="#post"])  {
     margin: -2rem -2rem 0 -2rem;
     max-width: unset ;
+  }
+  #observablehq-center:has(main > h2 > a[href="#post"]) header hr {
+    margin-inline:-2rem;
   }
 }
 
