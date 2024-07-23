@@ -12,10 +12,9 @@ title: We need more failure
 Leaving the house without a phone, being offline in a new city, losing access to an important account: these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 When faced with this, why are we not more concerned about *all* the flimsy technical layers and facbrics that envelop our lives *before* they imminently rip?
 
-While the double Crowdstrike / Azure security whammy unfolding over the weekend has everyone up its arms, on any normal day our technical concerns rarely starts before the foundations of our systems have given out. 
+While the double Crowdstrike + Azure security whammy unfolding over the weekend has everyone up its arms, on any normal day our technical concerns rarely start before the foundations of our systems have given out. 
 After a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — 
 cost projections are now running into the billions, with almost as many lives and occupations afflicted and, no less concerned sysadmin faces. 
-
 A wake-up call, if you or any of your company devices were unlucky enough to have been fed the unduly update.
 
 As specialists scramble to shimmy a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
