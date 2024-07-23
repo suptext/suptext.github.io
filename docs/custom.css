@@ -43,11 +43,13 @@ main :is(p):last-child {
   margin-block-end: unset;
 }
 
+
+
 header {
-  position:relative;
+  position: relative;
 }
 
-header > h1 {
+header>h1 {
   font-size: 1.75rem;
   letter-spacing: 0.31rem;
   font-family: var(--sans-serif);
@@ -63,16 +65,6 @@ body {
   font: 18px / 1.5 var(--serif);
 }
 
-@media (pointer:none),
-(pointer:coarse) {
-  body {
-    font: 15.5px / 1.5 var(--serif);
-  }
-
-  code {
-    font-size: 12px;
-  }
-}
 
 body:not(:has([href="#post"])) footer nav {
   display: none !important;
@@ -139,7 +131,7 @@ body:not(:has([href="#post"])) footer nav {
   border-radius: 0;
 }
 
-main:has([href="#post"]) {
+#observablehq-main:has([href="#post"]) {
 
   view-transition-name: hero;
 
@@ -150,22 +142,38 @@ main:has([href="#post"]) {
   /* border-radius: 0.75rem;*/
   padding: 2rem;
   margin: 1rem 0;
-  max-width: calc(640px - 4rem) !important;
+  max-width: calc(640px - 4rem);
 }
 
-@media (pointer:none),
+/*@media (pointer:none),
 (pointer:coarse) {
   main:has([href="#post"]) {
     padding: 1.5rem;
     max-width: calc(640px - 3rem) !important;
   }
-}
+}*/
 
 #observablehq-main {
   margin: unset;
   min-height: unset;
   /*calc(100vh - 26rem);*/
   left: max(0rem, calc(50% - 640px + 4rem));
+}
+
+
+@media (pointer:none),
+(pointer:coarse) {
+  body {
+    font: 15.5px / 1.5 var(--serif);
+  }
+
+  code {
+    font-size: 12px;
+  }
+  #observablehq-main:has([href="#post"])  {
+    margin: -2rem -2rem 0 -2rem;
+    max-width: unset ;
+  }
 }
 
 .article {
@@ -234,11 +242,11 @@ main:has([href="#post"]) {
 }
 
 .gh {
-  position:absolute;
-  top:0.4rem;
+  position: absolute;
+  top: 0.4rem;
   right: 0;
 }
 
 [alt="hide"] {
-  display:none;
+  display: none;
 }

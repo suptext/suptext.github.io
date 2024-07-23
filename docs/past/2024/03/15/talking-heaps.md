@@ -29,4 +29,4 @@ But the more researchers are delegated to scraping the platform barrels, the mor
 Or at least, until another sandbox is built around it.
 
 ### Links
-`Cooney, Adrian (2022) > `[*`Web scraping via Javascript Heap Snapshots`*](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
+> `Cooney, Adrian (2022) > `[*`Web scraping via Javascript Heap Snapshots`*](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
