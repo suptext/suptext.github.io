@@ -47,11 +47,11 @@ But, as most things in life, shielding your dependants from hardship or downplay
 
 *We need room to fail in order to learn.*
 And sometimes that room will be massive. 
-Dissuading failure on a system’s level however, is doing a massive disservice to how people learn, acquire new skills, hone their technical vocabularies and become fluent speakers. 
-Mind, I am not advocating everyone to become as fluent as a full-time engineer, making software more error prone or having developers mindlessly ‘push to prod’ and see what happens. 
-I rather draw attention to how building systems that prevent us from making any mistakes *at all* can lead to situations where we don’t even know how technically mute we are until we are suddenly put to the test.
+Dissuading failure on a system’s level however is doing a disservice to how people learn, acquire new skills, hone their technical vocabularies and become fluent speakers. 
+Mind, I am not advocating everyone to become as fluent as full-time engineers, making software more error prone or having developers mindlessly ‘push to prod’ and see what happens. 
+I rather draw attention to how building systems that prevent us from making any mistake *at all* can lead to situations where we don’t even know how technically mute we are until we are suddenly put to the test.
 
-If your machine had been idly purring away for some years, firing up the bootloader may just as well have been arcane knowledge by now
+If your machine had been idly purring away for some years, firing up the bootloader may just as well have been arcane knowledge
 (the unusual keycombo had me on edge for a minute). 
 Most of our technical struggles however, reach far beyond remedying the untimely blue-screen. 
 In fact, even *admitting* to being stalled on some issue, we are often ashamed of our apparent illiteracy. 
