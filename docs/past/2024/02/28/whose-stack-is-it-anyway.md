@@ -3,13 +3,9 @@ toc: false
 title: Whose stack is it anyway?
 ---
 
-```js
-import count from "/comp/words.js"
-```
-
 # Whose stack is it anyway?
 ## A technical guesing game [](#post)
-[`28 February 2024`](#lead)` > AoIR 2024 workshop submission` `/` ${count('p:has(> [href="#lead"]) ~ *')}  
+[`28 February 2024`](#lead)` > AoIR 2024 workshop submission` `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
 > *Choosing the right tech for our projects often feels nothing short of a gamble. 
 > Whether you're building research or industry products, the tools we use often remain veiled in shrouds of technical terms, outdated dependencies and obscure documentation if available at all.* 

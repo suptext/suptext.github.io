@@ -3,13 +3,9 @@ toc: false
 title: We need more failure
 ---
 
-```js
-import count from "/comp/words.js"
-```
-
 # We need more failure
 ## Tending to massively broken systems [](#post) [](#bookmark)
-[`22 July 2024`](#lead) `/` ${count('p:has(> [href="#lead"])  ~ *')} 
+[`22 July 2024`](#lead) `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
 > *A kernel issue so massive, unprecedented, impactful: why is it we only tend to care about our technical dependencies after the failsafes have been broken?*
 

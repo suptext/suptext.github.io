@@ -1,5 +1,3 @@
-// import {html} from "npm:htl";
-
 function count(selector) {
 
     let el = document.createElement('code');
@@ -11,4 +9,6 @@ function count(selector) {
     return el 
 }
 
-export default count;
+Object.assign(window.util,{count})
+
+//export default count;
