@@ -336,6 +336,21 @@ main h1:first-child {
   position: relative;
   background-color: var(--theme-background-alt);
 
+  /*&:before {
+    z-index:9;
+    content: "";
+    position:absolute;
+    display: block;
+    height: 10rem;
+    width:2rem;
+    left:-2rem;
+    top: -2rem;
+   
+    background: linear-gradient(180deg, rgba(51,49,48,1) 0%, rgba(51,49,48,0) 100%);
+    //outline:1px solid red;
+
+  }*/
+
   +h2 {
     position: sticky !important;
 
@@ -358,12 +373,13 @@ main h1:first-child {
       content: "";
       display: block;
       height: 0.5rem;
-      margin-inline: -0.05rem;
+      margin-inline-end: -0.1rem;
+      margin-inline-start: -0.05rem;
       border-bottom: solid 1px var(--theme-foreground-faint);
 
       opacity: 1;
     }
-
+  
   }
 
 }
