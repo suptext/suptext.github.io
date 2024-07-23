@@ -9,7 +9,7 @@ title: We need more failure
 
 > *A kernel issue so massive, unprecedented, impactful: why is it we only tend to care about our technical dependencies after the failsafes have been broken?*
 
-Leaving the house without our phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
+Leaving the house without a phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 When faced with this, why are we not more concerned about *all* the flimsy technical layers and facbrics that envelop our lives *before* they imminently rip?
 
 While the double Crowdstrike / Azure security whammy unfolding over the weekend had everyone up its arms, on any normal day the extent of our technical concerns rarely begins before most foundations of our systems have given out. 
@@ -35,7 +35,7 @@ Even if you were to possess the full knowledge of an OS’s history, what could 
 The reality is, we simply cannot read and parse all our intricate software and hardware dependencies. 
 Apart from a cohort of a few apt engineers, you and I are systems illiterate. 
 We may have a hunch as to to how our tech ‘talks’ and we might ‘speak’ their (programming) languages to some degree, but most of us are nowhere near able to follow along the more complex conversations our technical systems are increasingly having on our behalf. 
-If you are proficient, kudos, but as last Thursday’s incident shows, even the most technically proficient among us might not be fluent enough when it comes to the complex grammars of our new global software interlocutors.
+If you are proficient, kudos, but as Thursday’s incident shows, even the most technically proficient among us may not be fluent enough when it comes to the complex grammars of our new global software interlocutors.
 
 ### Give error some room
 We have dedicated whole industries solely focused on foolproofing software. 
