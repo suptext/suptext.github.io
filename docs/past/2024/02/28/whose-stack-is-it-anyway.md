@@ -17,7 +17,7 @@ take out one piece and watch them come down like a stack of bricks.
 
 More concretely, stacks compromise the software, hardware, toolchains and modules that your project simply cannot function without (Leeftink & Angus, 2022).
 Or no project can function without: all our digital work depends on a long-winded road of developer considerations stretching as far as the first operating systems and likely much further. 
-When operational, ‘just’ a friendly interface to our files and data, but once something breaks, good luck sifting through year old bulletin boards, cryptic help messages and low-res instructional videos to find that flag you should have set on install, comfortably tucked in a twenty-level deep config file.
+When operational, ‘just’ a friendly interface to our files and data, but once something breaks, good luck sifting through year old forums, cryptic help messages and low-res instructional videos to find that flag you should have set on install, comfortably tucked in a twenty-level deep config file.
 
 But stacks do not only compromise our work when they break. 
 The slew of assumptions baked into each component results in a terribly complex assembly of distributed ownership and responsibility, influencing what you *can* and *cannot* technically *do*. 
