@@ -8,7 +8,7 @@ title: Scraping the barrel
 [`15 March 2024`](#lead)` > ICA 2024 Post-API Conference` `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
 > *The iron grip of Chrome has become a major factor in how the web is structured and accessed. 
-> 'Manifest V3', the not-so-private 'Privacy Sandbox' and 'Ad Topics' all seem to serve the interests of a single parent: Google.*
+> 'Manifest V3', the not-so-private 'Privacy Sandbox' and 'Ad Topics' all seem to serve the interests of a single parent — Google.*
 
 While the company's grip seems to tighten at the surface, Chrome's Dev Tools still provides developers and researchers unprecedented access to the V8 engine and Chromium runtime. 
 At a moment when websites and platforms are turning to increasingly draconian anti-scraping measures, Chrome's browser Console and Network profiling tabs as well as its DOM, Sources and Property inspectors provide more than enough handles to deconstruct and navigate any complex page or web app.

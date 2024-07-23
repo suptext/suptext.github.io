@@ -8,11 +8,12 @@ title: Whose stack is it anyway?
 [`28 February 2024`](#lead)` > AoIR 2024 workshop submission` `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
 > *Choosing the right tech for our projects often feels nothing short of a gamble. 
-> Whether you're building research or industry products, the tools we use often remain veiled in shrouds of technical terms, outdated dependencies and obscure documentation if available at all.* 
+> Whether you're building research or industry products, the tools we use often remain veiled in shrouds of technical terms, outdated dependencies and obscure documentation, if available at all.* 
 
-The *stack*, or rather *your* stack, encompasses all the tooling, systems and infrastructure that enables you to do technical work: 
-from charting data to packaging websites and from authoring collaborative documents to hosting fully distributed computing clusters. 
-Ideally meticulously organised but more likely barely standing, these towering builds can be found at any scale: take out one piece and watch them come down like a stack of bricks.
+The *stack* or rather, *your* stack, encompasses all the tooling, systems and infrastructure that enables you to do technical work,
+ranging from plotting data to packaging websites and from authoring collaborative documents to hosting fully distributed computing clusters. 
+Ideally meticulously organised (but more likely barely standing), these towering builds can be found at any scale —
+take out one piece and watch them come down like a stack of bricks.
 
 More concretely, stacks compromise the software and hardware, toolchains and modules that your project simply cannot function without (Leeftink & Angus, 2022).
 In fact, no project can function without: all our digital work depends on a long-winded road of developer considerations stretching as far as the first operating systems and likely much further. 

@@ -60,7 +60,11 @@ header>h1 {
 }
 
 body {
-  font: 18px / 1.5 var(--serif);
+  /*font: 18px / 1.5 var(--serif);*/
+
+  font-family: "Source Serif 4", serif !important;
+  font-optical-sizing: auto;
+  font-weight: 300;
 }
 
 body:not(:has([href="#post"])) footer nav {
@@ -148,6 +152,12 @@ body:not(:has([href="#post"])) footer nav {
   padding: 2rem;
   /* margin: 1rem 0;*/
   max-width: calc(640px - 4rem);
+
+  blockquote:first-of-type {
+    font-family:var(--serif);
+    font-weight:400;
+    font-size:18.5px;
+  }
 
 }
 
@@ -271,6 +281,11 @@ code,
   #observablehq-main:has([href="#post"]) {
     margin: -2rem -2rem 0 -2rem;
     max-width: unset;
+
+    blockquote:first-of-type {
+
+      font-size:17.25px;
+    }
   }
 
   #observablehq-center:has(main > h2 > a[href="#post"]) header hr {
@@ -332,7 +347,7 @@ main h1:first-child {
     margin-top: -1rem;
     border-block-start: solid 1rem var(--theme-background-alt);
 
-    margin-bottom: 0rem;
+    margin-bottom: 0.1rem;
     border-block-end: solid calc(0.5rem) var(--theme-background-alt);
 
     margin-inline: calc(-0.5rem);

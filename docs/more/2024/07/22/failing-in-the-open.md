@@ -7,16 +7,18 @@ title: We need more failure
 ## Tending to massively broken systems [](#post) [](#bookmark)
 [`22 July 2024`](#lead) `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
-> *A kernel issue so massive, unprecedented, impactful: why is it we only tend to care about our technical dependencies after the failsafes have been broken?*
+> *A kernel issue so massive, unprecedented, impactful — why is it we tend to care about our technical dependencies only after the failsafes have broken?*
 
-Leaving the house without a phone, being offline in a new city, losing access to an important account... these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
+Leaving the house without a phone, being offline in a new city, losing access to an important account: these are things we generally try to avoid, as even the smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
 When faced with this, why are we not more concerned about *all* the flimsy technical layers and facbrics that envelop our lives *before* they imminently rip?
 
-While the double Crowdstrike / Azure security whammy unfolding over the weekend had everyone up its arms, on any normal day the extent of our technical concerns rarely begins before most foundations of our systems have given out. 
-When a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — cost projections have since ran into the billions, with almost as many lives and occupations afflicted and no less concerned sys-admins faces. 
+While the double Crowdstrike / Azure security whammy unfolding over the weekend has everyone up its arms, on any normal day our technical concerns rarely starts before the foundations of our systems have given out. 
+After a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — 
+cost projections are now running into the billions, with almost as many lives and occupations afflicted and, no less concerned sysadmin faces. 
+
 A wake-up call, if you or any of your company devices were unlucky enough to have been fed the unduly update.
 
-As specialists scramble to shimmy a solution (complicated due to how affected devices have been ‘soft-bricked’ and difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
+As specialists scramble to shimmy a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
 We haven’t completely forgotten how to operate a pen and paper, but we are close. I don’t lament this apperant loss of offline skills, but am worried about the finer prints of our technical contracts: namely, how *we are blind to how technologies fail us, all the time*.
 
 ### Being system illiterate
