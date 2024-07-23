@@ -54,7 +54,11 @@ export default {
      <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
      <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
      <link rel="shortcut icon" href="/icon/favicon.ico"> 
-     <link rel="manifest" href="/icon/site.webmanifest">`,
+     <link rel="manifest" href="/icon/site.webmanifest">
+     <script>
+       var htmlElement = document.documentElement;
+       htmlElement.setAttribute("lang", "en-br");
+     </script>`,
      header, // what to show in the header (HTML)
      footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i>`, // what to show in the footer (HTML)
      toc: false, // whether to show the table of contents

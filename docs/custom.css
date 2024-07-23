@@ -163,6 +163,7 @@ body:not(:has([href="#post"])) footer nav {
   min-height: unset;
   /*calc(100vh - 26rem);*/
   left: max(0rem, calc(50% - 640px + 4rem));
+  hyphens:auto;
 }
 
 
