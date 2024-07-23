@@ -44,8 +44,8 @@ Onboarding new users should be as seamless and harmless as possible, while updat
 But as most things in life, shielding your dependants from hardship or downplaying restless nights rarely has the intended effect.
 
 *We need room to fail in order to learn.*
-Sometimes that room will be massive. 
-Preventing failure on a system’s level however, is doing a disservice to the how people acquire technical skills, hone their basic vocabularies and become proficient users. 
+And sometimes that room will be massive. 
+But dissuading failure on a system’s level is a massive disservice to the how people acquire technical skills, hone their base vocabularies and become proficient users. 
 Mind, I am not advocating everyone to become as fluent as a full-blown systems engineer, making our systems more error prone, or having developers mindlessly ‘push to prod’ and see what happens. 
 I rather draw attention to how building systems that prevent us from making mistakes, can lead to a situation where we don’t even know how technically mute we are until we are suddenly put to the test.
 

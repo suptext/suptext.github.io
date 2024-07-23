@@ -261,7 +261,7 @@ code,
 @media (pointer:none),
 (pointer:coarse) {
   body {
-    font: 15.5px / 1.5 var(--serif);
+    font: 16px / 1.5 var(--serif);
   }
 
   code {
@@ -332,7 +332,7 @@ main h1:first-child {
     margin-top: -1rem;
     border-block-start: solid 1rem var(--theme-background-alt);
 
-    margin-bottom: 0.1rem;
+    margin-bottom: 0rem;
     border-block-end: solid calc(0.5rem) var(--theme-background-alt);
 
     margin-inline: calc(-0.5rem);
