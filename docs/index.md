@@ -14,7 +14,7 @@ toc: false
   <div class="card">
     <a rel="next" href="./past/2024/03/15/talking-heaps">
       <h2>Scraping the barrel</h2>
-      <h3>Getting research data from heap snapshots</h3>
+      <h3>Getting research data from the heap</h3>
     </a>
   </div>
   

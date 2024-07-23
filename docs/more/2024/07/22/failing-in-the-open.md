@@ -48,7 +48,7 @@ But, as most things in life, shielding your dependants from hardship or downplay
 *We need room to fail in order to learn.*
 And sometimes that room will be massive. 
 Dissuading failure on a system’s level however is doing a disservice to how people learn, acquire new skills, hone their technical vocabularies and become fluent speakers. 
-Mind, I am not advocating everyone to become as fluent as full-time engineers, making software more error prone or having developers mindlessly ‘push to prod’ and see what happens. 
+Mind, I am not advocating everyone to become as fluent as a full-time engineer, making software more error prone or having developers mindlessly ‘push to prod’ and see what happens. 
 I rather draw attention to how building systems that prevent us from making any mistake *at all* can lead to situations where we don’t even know how technically mute we are until we are suddenly put to the test.
 
 If your machine had been idly purring away for some years, firing up the bootloader may just as well have been arcane knowledge
@@ -69,6 +69,6 @@ Yet when faced by similar situations myself, I am no stranger to sticking to ‘
 Besides maybe those at the very start of their careers, we are simply too constrained to reconstruct our toolsheds even though we may very well want to. 
 Would it serve us to embrace environments more accommodating to our messy technical work, histories and (in)proficiencies? 
 Provide room for explicit failure and experimentation, not just catering to the technical strata and regimens of a select few? 
-It may be too late in moments of crises. We need to start failing more in the open.
+It may be too late in moments of crises. We need to fail more in the open.
 
 We just need systems that allow us to.
