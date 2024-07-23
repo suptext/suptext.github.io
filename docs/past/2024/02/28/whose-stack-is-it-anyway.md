@@ -1,6 +1,6 @@
 ---
 toc: false
-title: Whose stack is it anyway?
+title: Whose stack is it anyway
 ---
 
 # Whose stack is it anyway?
