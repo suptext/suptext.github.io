@@ -11,6 +11,16 @@ import footer from './docs/comp/footer.js'
 export default {
 
   title: "suptext",
+  head, header, 
+  footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i>`,
+  toc: false,
+  search: false,
+  typographer: true,
+  theme: ["dark", "alt", "sun-faded"], // is overridden in css
+  style: "./custom.css"
+
+  // root: "docs", // path to the source root for preview
+  // output: "dist", // path to the output root for build
 
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
@@ -31,18 +41,7 @@ export default {
     }
   ],*/
 
-  // Some additional configuration options and their defaults:
-     theme: ["dark","alt","sun-faded"], // try "light", "dark", "slate", etc.
-     head,
-     header, // what to show in the header (HTML)
-     footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i>`, // what to show in the footer (HTML)
-     toc: false, // whether to show the table of contents
-  // pager: true, // whether to show previous & next links in the footer
-  // root: "docs", // path to the source root for preview
-  // output: "dist", // path to the output root for build
-     search: true, // activate search
-     typographer:true,
-     style:"./custom.css"
+
 };
 
 /*function getFiles(directory) {
