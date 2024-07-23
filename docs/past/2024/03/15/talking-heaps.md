@@ -13,7 +13,7 @@ title: Scraping the barrel
 While the company's grip seems to tighten at the surface, Chrome's Dev Tools still provides developers and researchers unprecedented access to the V8 engine and Chromium runtime. 
 At a moment when websites and platforms are turning to increasingly draconian anti-scraping measures, Chrome's browser Console and Network profiling tabs as well as its DOM, Sources and Property inspectors provide more than enough handles to deconstruct and navigate any complex page or web app.
 
-However, with WASM on the horizon the ways in which apps and sites are structured today may soon be out the (global) window. 
+However, with WASM on the horizon the ways in which apps and sites are structured today may soon be out of the (global) window. 
 Instead of operating on the standard Document Object Model, developers can now pre-compile and run any type of (binary) source code in a sandboxed browser environment and render the output to a canvas, obfuscating the internals and becoming even more difficult to reverse-engineer. 
 Hence, meet your next best friend: *the heap*. Introduced as a way to track to performance issues and memory leaks, Chrome allows you to take snapshots of everything that it currently holds in memory. 
 While at glance, the output seems difficult to navigate it contains all the data that has gone into building the webview before you—wouldn't it be great if we could use this somehow for our scraping needs?
