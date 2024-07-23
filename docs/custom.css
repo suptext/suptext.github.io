@@ -196,6 +196,9 @@ code,.bio {
   #observablehq-center:has(main > h2 > a[href="#post"]) header hr {
     margin-inline:-2rem;
   }
+  #observablehq-footer nav a span {
+    font-size:0.84rem;
+  }
 }
 
 .article {
