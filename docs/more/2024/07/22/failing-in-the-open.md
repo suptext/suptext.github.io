@@ -7,17 +7,17 @@ title: We need more failure
 ## Tending to massively broken systems [](#post) [](#bookmark)
 [`22 July 2024`](#lead) `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
-> *A kernel issue so massive, unprecedented, impactful: why is it we tend to care about our technical dependencies only after the failsafes have broken?*
+> *A kernel issue so massive, unprecedented, impactful —  why is it we only start caring about our technical dependencies after the failsafes have been broken?*
 
 Leaving the house without a phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid. The smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
-Faced with this, why are we not concerned about *all* the flimsy technical layers and facbrics that envelop our lives, *before* they rip and tear?
+Faced with this, why are we not more concerned about all the flimsy technical layers and facbrics that envelop our lives, *before* they imminently rip?
 
 While the double Crowdstrike + Azure security whammy unfolding over the weekend has everyone up its arms, on any normal day our technical concerns rarely start before most system foundations have given out. 
-When a security patch pushed by Crowdstrike on Thursday did just that and rendering millions of Windows devices inoperable in the process — 
-cost projections are now running in the billions, with almost as many lives and occupations afflicted and no less concerned sysadmin faces. A wake-up call, if you or any of your company devices were unlucky enough to have been fed the unduly update.
+When a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — cost projections are now running in the billions, with almost as many lives and occupations afflicted and no less concerned sysadmin faces. 
+A wake-up call, if you or any of your company devices were unlucky enough to have been fed the unduly update.
 
-As specialists scramble to a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with the harsh reality of all the critical computational work we have since outsourced. 
-We haven’t completely forgotten how to operate a pen and paper, but we are close. I don’t lament this apperant loss of skill, but am worried about the finer print of our technical contract: *we are blind to how technologies fail us, all the time*.
+As IT specialists scramble to a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
+We haven’t completely forgotten how to operate a pen and paper, but we are close. I don’t lament this apparent loss of skill, but am worried about the finer print of our technical contract: *we are blind to how technologies fail us, all the time*.
 
 ### Being system illiterate
 
@@ -28,15 +28,15 @@ Blind to the development shortcuts someone has taken to meet a release deadline.
 Blind to the hundreds of vendors and development teams we rely on daily to run our cloud based work. 
 We aren’t blinded because we don’t want to see but because we *cannot* easily see behind the thick curtains of our software production lines.
 
-Besides the obvious bugs and errors, most of the development practices that go into our products can only be traced back to a certain degree. 
-Even if one can it is still difficult to understand these technical pedigrees holistically:
-[*The Genealogy of Linux*](https://distrowatch.com/dwres.php?resource=family-tree) for instance is well documented, but a *true* understanding of how individual releases relate to their progenitors is only reserved to the dedicated few. 
-Even if you were to possess the full knowledge of an OS’s history, what can a single person, entity or vendor realistically do to relay this intricate web of dependencies to the end-user, before mindlessly clicking *Update Now* to get on with the day?
+Besides the obvious bug or error, most of the development practices that go into our products can only be traced back to a certain degree. 
+Even if you do, the difficulty remains understanding these technical pedigrees holistically:
+for instance, the [*Genealogy of Linux*](https://distrowatch.com/dwres.php?resource=family-tree) may be well documented, but a *true* understanding of how individual releases relate to their progenitors is a feat only reserved to a dedicated few archivists. 
+And *even if* you were to possess the full knowledge of an OS’s history, what can you or any single person, entity or vendor realistically do to relay such complexity to the end-user, before clicking *Update Now* to just get on with their day?
 
 The reality is, we simply cannot read and parse all our intricate software and hardware dependencies. 
 Apart from a cohort of a few apt engineers, you and I are systems illiterate. 
-We may have a hunch as to to how our tech ‘talks’ and we might ‘speak’ their (programming) language back to some degree, but most of us are nowhere near able to follow along the more complex conversations technical systems are increasingly having on our behalf. 
-If you are proficient, kudos, but as Thursday’s incident shows, even the most technically proficient in our ranks may not be fluent enough when it comes to the complex grammars of our global software interlocutors.
+We may have a hunch as to to how our tech ‘talks’ and we might ‘speak’ their hard and soft programming to some degree, but most of us are nowhere near able to follow along the more complex conversations our technical systems are increasingly having on our behalf. 
+If you are proficient, kudos, but as Thursday’s incident shows, even the most technically proficient among us may not be capable enough when it comes to understanding the complex grammars of our latest global software interlocutors.
 
 ### Give error some room
 We have dedicated whole industries solely focused on foolproofing software. 

@@ -156,7 +156,7 @@ body:not(:has([href="#post"])) footer nav {
   blockquote:first-of-type {
     font-family:var(--serif);
     font-weight:400;
-    font-size:18.5px;
+    font-size:20px;
   }
 
 }
@@ -283,7 +283,8 @@ code,
     max-width: unset;
 
     blockquote:first-of-type {
-      font-size:16.5px;
+      margin-inline:unset;
+      font-size:19px;
     }
   }
 
