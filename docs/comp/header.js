@@ -26,7 +26,7 @@ const header = `
   </div>
 </h1>
 <h2>say less no more</h2>
-<hr id="post"/>
+<hr/>
 `
 
 export default header

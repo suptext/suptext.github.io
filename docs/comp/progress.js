@@ -1,4 +1,4 @@
-// to do: inject CSS conditionally
+// to do: insert CSS conditionally
 
 let bar = document.createElement('div');
   bar.setAttribute('id','progress');
