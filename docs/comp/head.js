@@ -32,6 +32,13 @@ const head =
 <!-- Globals -->
 <script>
   document.documentElement.setAttribute("lang", "en-br"); window.util = {};
+  window.onbeforeunload = function () {
+    /*window.scrollTo(0, 0);
+    setTimeout(function() {
+            window.location.href = link.getAttribute('href');
+    }, 500); */
+  }
+
 </script>
 
 <!-- Post utils -->
