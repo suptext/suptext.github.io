@@ -4,7 +4,7 @@ title: Whose stack is it anyway?
 ---
 
 # Whose stack is it anyway?
-## A technical guesing game [](#post)
+## [A technical guesing game](#post)
 [`28 February 2024`](#lead)` > AoIR 2024 workshop submission` `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
 
 > *Choosing the right tech is nothing short of a gamble. 
