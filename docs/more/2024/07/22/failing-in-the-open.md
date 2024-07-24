@@ -10,14 +10,14 @@ title: We need more failure
 > *A technical outage so massive, unprecedented, impactful —  why is it we only care about our technical dependencies after the failsafes have been broken?*
 
 Leaving the house without a phone, being offline in a new city, losing access to an important account; these are things we generally try to avoid. The smallest hiccup in our technical routines makes us not only deeply uncomfortable, but increasingly, incapable. 
-When faced with this, why are we not more concerned about all the flimsy technical layers and facbrics that envelop our lives, *before* they imminently rip?
+When faced with this, why are we not more concerned about all the flimsy technical layers and fabrics that envelop our lives, *before* they imminently rip?
 
 While the double Crowdstrike + Azure security whammy unfolding over the weekend has everyone up its arms, on any normal day our technical concerns rarely start before most system foundations have given out. 
 When a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — cost projections are since running in the billions, with almost as many lives and occupations afflicted and no less concerned sysadmin faces. 
 A wake-up call, if you or any of your company devices were unlucky enough to have been fed the unduly update.
 
 As IT specialists scramble a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
-We haven’t completely forgotten how to operate a pen and paper, but we are close. I don’t want to lament this apparent loss of skill, but am worried about the finer print of our technical contract: *we are blind to how technologies fail us, all the time*.
+We haven’t completely forgotten how to operate a pen and paper, but we are close. I don’t lament this apparent loss of skill, but am worried about the finer print of our technical contract: *we are blind to how technologies fail us, all the time*.
 
 ### Being system illiterate
 
@@ -30,7 +30,7 @@ We aren’t blinded because we don’t want to see but because we *cannot* easil
 
 Besides the obvious bug or error, most development practices that underpin our products can only be retraced to a certain degree. 
 Even if you do, the difficulty remains understanding such technical pedigrees holistically:
-for instance, the [*Genealogy of Linux*](https://distrowatch.com/dwres.php?resource=family-tree) may be well documented, but a *true understanding* of how individual releases relate to their progenitor is a feat only reserved a handful of dedicated archivists. 
+for instance, the [*Genealogy of Linux*](https://distrowatch.com/dwres.php?resource=family-tree) may be well documented, but a *true understanding* of how individual releases relate to their progenitors is a feat only reserved to a handful of dedicated archivists. 
 And *even if* you were to possess a full knowledge of an OS’s history, what can you or any single person, entity or vendor realistically do to relay such complexity to the end-user, before clicking *Update Now* to get on with their day?
 
 The reality is, we simply cannot read and parse all our intricate software and hardware dependencies. 
@@ -55,7 +55,7 @@ If your system had been idly purring away for some years, firing up the bootload
 (the unusual keycombo had me on edge for a minute). 
 Most of our technical struggles however, reach far beyond remedying the untimely blue-screen. 
 In fact, even *admitting* to being stalled on some issue, we are often ashamed of our apparent illiteracy. 
-No wonder that in our heavily platformised, multi-app work environments where some are carrying 20+ years of personal and occupational data, our attention for the latest and greatest tools while managing existing ones has been spread all too thin.
+No wonder that in our heavily platformised, multi-app work environments and where some are carrying 20+ years of personal and occupational data, our attention for the latest and greatest tools while managing our existing ones has been spread all too thin.
 
 ### Failing proficiently
 By now, it is no secret that leaning into one software ecosystem makes switching to another all the costlier as time goes on. 
@@ -67,8 +67,8 @@ Just think about the difficulty of having your colleagues find the time (and ene
 Yet when faced by similar situations myself, I am no stranger to sticking to ‘what works’ over something less foolproof.
 
 Besides maybe those at the very start of their careers, we are simply too constrained to rebuild our toolsheds from the ground up — even though we may very well want to. 
-Could we embrace environments more accommodating to our messy technical work, incompatible histories and system (in)proficiencies? 
-Provide room for explicit failure and experimentation, not just catering to the technical regimens of the brilliant few? 
+Could we embrace a work environment more accommodating to our messy technical work, incompatible technical trajectories and our latent (in)proficiencies?
+Provide more room for explicit failure and experimentation, not just catering to the technical regimen of a brilliant few?
 It may be too late in moments of crises. 
 We need to fail more in the open.
 
