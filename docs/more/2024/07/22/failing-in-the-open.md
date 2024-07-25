@@ -5,7 +5,7 @@ title: We need more failure
 
 # We need more failure
 ## [Tending to massively broken systems](#post) [](#bookmark)
-[`22 July 2024`](#lead) `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
+[`22 July 2024`](#lead) `/` [`...`](#count)
 
 > *A technical outage so massive, unprecedented, impactful —  why is it we only care about our technical dependencies after the failsafes have been broken?*
 

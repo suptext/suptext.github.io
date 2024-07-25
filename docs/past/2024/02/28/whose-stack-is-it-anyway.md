@@ -5,7 +5,7 @@ title: Whose stack is it anyway?
 
 # Whose stack is it anyway?
 ## [A technical guesing game](#post)
-[`28 February 2024`](#lead)` > AoIR 2024 workshop submission` `/` ${window.util.count('p:has(> [href="#lead"]) ~ *')}
+[`28 February 2024`](#lead)` > AoIR 2024 workshop submission` `/` [`...`](#count)
 
 > *Choosing the right tech is nothing short of a gamble. 
 > Whether we are building academic or industry products, the tools we rely on often remain shrouded in technical terms, outdated dependencies and obscure documentation —  if you’re lucky.* 
@@ -38,5 +38,5 @@ The rules are simple:
 
 There is room for 24 participants. For effective participation, please register a GitHub account and bring a connected device.
 
-### References
+### [References](#exit)
 > `Leeftink & Angus (2022) > `[*`The Research Stack: A Framework for Data-driven Humanities and Social Science`*](https://sk.sagepub.com/reference/the-sage-handbook-of-digital-society/i1189.xml)` > The SAGE Handbook of Digital Society, 131.`
