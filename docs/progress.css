@@ -1,0 +1,74 @@
+/* Progress indicator */
+
+@keyframes grow-progress {
+  from {
+    transform: scaleX(0);
+  }
+
+  to {
+    transform: scaleX(1);
+  }
+}
+
+html {
+  scroll-timeline: --page-scroll block;
+}
+
+#progress {
+  position: relative;
+
+  z-index: 10;
+  top: calc(1rem - 2px);
+  display: block;
+  margin-bottom: -2px; /* try 1.5px for mobile preview */
+  margin-inline-start: -2rem;
+  margin-inline-end: -2px;
+  transform-origin: 0rem 50%;
+  transform: scale(0);
+  height: 2px;
+  background-color: var(--theme-foreground-pop);
+  opacity: 0.95;
+}
+
+#progress {
+  animation: grow-progress auto linear;
+  animation-timeline: --page-scroll;
+}
+
+#observablehq-main h1:first-child {
+
+  z-index: 10;
+  position: relative;
+  background-color: var(--theme-background-alt);
+
+  + h2 {
+    position: sticky !important;
+
+    z-index: 9;
+    top: 0;
+    background: var(--theme-background-alt);
+
+    margin-top: -1rem;
+    border-block-start: solid 1rem var(--theme-background-alt);
+
+    margin-bottom: 0.1rem;
+    border-block-end: solid calc(0.42rem) var(--theme-background-alt);
+
+    margin-inline: calc(-0.5rem);
+    border-inline: solid 0.5rem var(--theme-background-alt);
+
+    box-shadow: var(--theme-background-alt) 0px 0px 24px;
+
+    &:after {
+      content: "";
+      display: block;
+      height: 0.5rem;
+      margin-inline-end: -0.1rem;
+      margin-inline-start: -0.05rem;
+      border-bottom: solid 1px var(--theme-foreground-faint);
+
+      opacity: 1;
+    }
+  }
+}
+  
