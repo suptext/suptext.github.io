@@ -1,3 +1,5 @@
+/* Article marking styles */
+
 a[href="#exit"],a[href="#fold"] {
   
   border-top:0.475rem solid var(--theme-background-alt);

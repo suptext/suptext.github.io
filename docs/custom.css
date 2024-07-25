@@ -1,7 +1,9 @@
 @import url("observablehq:default.css");
 @import url("observablehq:theme-sun-faded.css");
-@import url("./marks.css");
-@import url("./progress.css");
+
+@import url("./util/marks.css");
+@import url("./util/upward.css");
+@import url("./util/progress.css");
 
 :root {
   --theme-foreground-pop: oklch(from #f09a6f l c h / calc(alpha - 0))
@@ -312,73 +314,4 @@ code,
 
 :is(h1:not(:nth-child(1)), h2:not(:nth-child(2)), h3, h4, h5, h6) {
   scroll-margin-top: 3.5em;
-}
-
-
-.upward {
-  --offset: 100%; /* control when the button appear */
-  --size: 2rem;
-  position: sticky;
-  display:block;
-
-  bottom: calc(0.75 * var(--size));
-  margin-top: calc(-0rem - 0.5 * var(--size));
-  margin-bottom: calc(-1rem - 0.5 * var(--size));
-  
-  height:var(--size);
-  width: var(--size);
-  left:calc(100% - 0.5 * var(--size));
-  background: var(--theme-foreground-pop);
-  font-size: 0;
-  opacity:0.85;
-}
-.upward:before {
-  content: "";
-  position: absolute;
-  inset: 35%;
-  transform: translateY(20%) rotate(-45deg);
-  border-top: 4px solid #fff;
-  border-right: 4px solid #fff;
-  border-radius: 3px;
-
-}
-
-@supports (animation-timeline: view()) {
-  @keyframes fade-in {
-    from { opacity: 0 }
-    to   { opacity: 1 }
-  }
-
-  @keyframes animate-in-and-out {
-    contain 0%  {
-      opacity: 0; transform: translateX(100%);
-    }
-    contain 5%  {
-      opacity: 0.85; transform: translateX(0%);
-    }
-    
-    contain 85%  {
-      opacity: 0.85; transform: translateX(0%);
-    }
-    contain 90%  {
-      opacity: 1; transform: translateX(100%);
-    }
-    contain 100%  {
-      opacity: 1; transform: translateX(100%);
-    }
-  }
-  
-  @keyframes shadow-in {
-    to { box-shadow: 0 10px 10px var(--theme-foreground-pop) }
-  }
-  
-  .upward {
-    animation: animate-in-and-out auto linear both;
-    animation-timeline: scroll();
-    
-  }
-  
-  .other-el {
-    animation-name: shadow-in;
-  }
 }
