@@ -6,6 +6,7 @@ a[href="#exit"],a[href="#fold"] {
   border-bottom:1px solid var(--theme-background-alt);
   background-color:var(--theme-foreground-pop);
   
+  margin-block-start: 2rem;
   pointer-events: none;
   display:block;
   font-size:0;
@@ -20,6 +21,7 @@ a[href="#rest"] {
   letter-spacing: 0.1rem;
   pointer-events: none;
   text-align: center;
+
   
   font-size:1.5rem;
   display:block;

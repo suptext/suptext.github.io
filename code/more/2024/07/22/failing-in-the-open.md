@@ -66,7 +66,7 @@ No wonder that in a heavily platformed, multi-app environment where some are car
 [__](#fold)
 
 ### Failing proficiently
-By now, it is no secret that leaning into one software ecosystem makes switching to another all the costlier as time goes on. 
+It is no secret that leaning into one software ecosystem makes switching to another all the costlier as time goes by. 
 At the same time, there is no guarantee that whatever ecosystem we choose now won’ t be shelved tomorrow.
 In my experience of building academic research tools, this budding ‘time creep’ is mostly an afterthought or rarely considered at all during the initial phases of a project. 
 
