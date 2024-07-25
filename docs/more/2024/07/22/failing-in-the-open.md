@@ -1,7 +1,7 @@
 ---
 toc: false
 title: We need more failure
-style: "/uses/posts.css"
+style: "/type/post.css"
 ---
 
 # We need more failure

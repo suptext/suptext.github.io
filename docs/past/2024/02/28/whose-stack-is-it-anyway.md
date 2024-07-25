@@ -1,7 +1,8 @@
 ---
 toc: false
 title: Whose stack is it anyway?
-style: "/uses/posts.css"
+style: "/type/post.css"
+
 ---
 
 # Whose stack is it anyway?

@@ -1,9 +1,7 @@
 @import url("../custom.css");  /* base style */
-
-@import url("./heading.css");  /* overrides */
-
-@import url("./progress.css"); /* features */
-@import url("./upward.css");
+@import url("../uses/heading.css");  /* overrides */
+@import url("../uses/progress.css"); /* features */
+@import url("../uses/upward.css");
 
 /* customisation */
 

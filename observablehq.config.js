@@ -2,7 +2,7 @@
 
 import head from './docs/util/head.js'
 import header from './docs/util/header.js'
-import footer from './docs/util/footer.js'
+// import footer from './docs/util/footer.js'
 
 // import * as fs from 'fs';
 // const dir = './docs/view'
