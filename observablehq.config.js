@@ -12,7 +12,7 @@ export default {
 
   title: "suptext",
   head, header, 
-  footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i>`,
+  footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i><span class="copy"></>`,
   toc: false,
   search: false,
   typographer: true,

@@ -1,6 +1,7 @@
 ---
 toc: false
 title: Whose stack is it anyway?
+style: "/uses/posts.css"
 ---
 
 # Whose stack is it anyway?
@@ -12,15 +13,15 @@ title: Whose stack is it anyway?
 
 The *stack* or rather, *your* stack, encompasses all the tooling, systems and infrastructure that enables you to do technical work,
 ranging from plotting data to packaging websites and from authoring collaborative documents to hosting fully distributed computing clusters. 
-Ideally meticulously organised but more likely barely standing, these towering builds can be found at any scale —
-take out one piece and watch them come down like a stack of bricks.
+Ideally meticulously organised but more likely barely standing, these towering builds can be found at any scale:
+take out one piece and watch them topple over like a stack of bricks.
 
 More concretely, stacks compromise the software, hardware, toolchains and modules that your project simply cannot function without (Leeftink & Angus, 2022).
 Or no project can function without: all our digital work depends on a long-winded road of engineering decisions stretching as far as the first operating systems and likely much further. 
-When operational, ‘just’ a friendly interface to our files and data, but once something breaks, good luck sifting through year old forums, cryptic help messages and low-res instructional videos to find that flag you should have set on install, comfortably tucked in a twenty-level deep config file.
+When operational, ‘just’ a friendly interface to our files and data, but once something breaks, good luck sifting through year old forums, cryptic help messages and low-res instructional videos to find that flag you should have set on install, comfortably tucked under an obscure configuration.
 
-But stacks do not only compromise our work when they break. 
-The slew of assumptions baked into each component results in a terribly complex assembly of distributed ownership and responsibility, influencing what you *can* and *cannot* technically *do*. 
+But stacks do not just compromise our work when they break. 
+The slew of assumptions baked into each component results in a terribly complex assemblage of distributed ownership and responsibility, influencing what you *can* and *cannot* technically *do*. 
 What file types are accepted? Which languages are supported? How can interfaces be operated? Customised? Which legacy systems are depended on? Who made these decisions in the first place? 
 When developer considerations are distributed this far and wide, you cannot help but wonder: *whose stack is it anyway*?
 

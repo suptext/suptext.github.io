@@ -1,6 +1,7 @@
 ---
 toc: false
 title: Scraping the barrel
+style: "/uses/posts.css"
 ---
 
 # Scraping the barrel

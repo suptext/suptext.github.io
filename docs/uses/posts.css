@@ -1,0 +1,62 @@
+@import url("../custom.css");  /* base style */
+
+@import url("./heading.css");  /* overrides */
+
+@import url("./progress.css"); /* features */
+@import url("./upward.css");
+
+/* customisation */
+
+:is(h1:not(:nth-child(1)), h2:not(:nth-child(2)), h3, h4, h5, h6) {
+  scroll-margin-top: 3.5em;
+}
+
+#observablehq-main {
+
+  /*view-transition-name: hero;*/
+
+  background: var(--theme-background-alt);
+  border-bottom: 1px solid var(--theme-foreground-faintest) !important;
+
+  padding: 2rem;
+  /* margin: 1rem 0;*/
+  max-width: calc(640px - 4rem);
+
+  blockquote:first-of-type {
+    font-family:var(--serif);
+    font-weight:400;
+    font-size:20px;
+  }
+  
+  :is(p):last-child {
+    margin-block-end: unset;
+  }
+
+}
+
+@media (pointer:none),
+(pointer:coarse) {
+
+  #observablehq-main {
+    margin: -2rem -2rem 0 -2rem;
+    max-width: unset;
+
+    blockquote:first-of-type {
+      margin-inline:unset;
+      font-size:19px;
+    }
+  }
+
+  #observablehq-center header hr {
+    margin-inline: -2rem;
+  }
+
+}
+
+/* ... in the future -> see heading.css */
+
+/*#observablehq-main:has(h2 > a[href="#post"]) {
+
+  --type: post;
+
+}*/

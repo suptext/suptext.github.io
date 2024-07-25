@@ -1,5 +1,9 @@
 /* Progress indicator styles */
 
+html {
+  scroll-timeline: --page-scroll block;
+}
+
 @keyframes grow-progress {
   from {
     transform: scaleX(0);
@@ -8,10 +12,6 @@
   to {
     transform: scaleX(1);
   }
-}
-
-html {
-  scroll-timeline: --page-scroll block;
 }
 
 #progress {

@@ -1,76 +1,18 @@
 @import url("observablehq:default.css");
 @import url("observablehq:theme-sun-faded.css");
 
+@import url("./uses/header.css");
+@import url("./uses/lander.css");
+@import url("./uses/footer.css");
 @import url("./uses/marks.css");
-@import url("./uses/upward.css");
-@import url("./uses/progress.css");
 
 :root {
   --theme-foreground-pop: oklch(from #f09a6f l c h / calc(alpha - 0))
 }
 
 html {
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
   overflow-y: scroll !important;
-}
-
-.home {
-  max-width: 642px;
-}
-
-main h1:has(+ h2) {
-
-  font-size: 1.1em;
-  font-family: var(--sans-serif);
-  color: var(--theme-foreground);
-
-  letter-spacing: 1px;
-
-  &+h2 {
-    font-family: var(--serif);
-    font-size: 1.1em;
-    color: var(--theme-foreground-faint);
-
-    a[href] {
-      color:unset;
-    }
-
-    &:after {
-      display: block;
-      position: relative;
-      top: 0.35em;
-      text-align: center;
-    }
-  }
-}
-
-main h3 {
-
-  padding-block-start: 0.5rem;
-  font-family: var(--sans-serif);
-  font-size: 1.035em;
-  color: var(--theme-foreground)
-
-}
-
-main :is(p):last-child {
-  margin-block-end: unset;
-}
-
-header {
-  position: relative;
-}
-
-header>h1 {
-  font-size: 1.75rem;
-  letter-spacing: 0.31rem;
-  font-family: var(--sans-serif);
-
-  &+h2 {
-    font-family: var(--serif);
-    color: var(--theme-foreground-faint);
-    font-size: 1.159rem;
-  }
 }
 
 body {
@@ -85,124 +27,11 @@ body:not(:has([href="#post"])) footer nav {
   display: none !important;
 }
 
-.card {
-
-  border: unset;
-  border-radius: 3px;
-
-  padding: unset;
-  padding-block-start: 1.5em;
-  padding-block-end: 1.25em;
-  padding-inline-start: 1.5em;
-  border-bottom: 1px solid var(--theme-foreground-faintest) !important;
-
-  & h2 {
-    letter-spacing: 0.5px;
-    margin-bottom: 0;
-    font-weight: bold;
-  }
-
-  & h2+h3 {
-    font-family: var(--serif);
-    font-size: 15px;
-    font-style: italic;
-  }
-
-}
-
-.bookmark {
-
-  overflow: hidden;
-  position: relative;
-
-  /*&:before {
-    content: "";
-    position: absolute;
-    left: -25px;
-    width: 20px;
-    height: 100%;
-
-    transform: rotate(-45deg);
-    background-color: rgb(180, 155, 155);
-  }*/
-
-  &:after {
-    content: "";
-    position: absolute;
-    right: -25px;
-    top: -30px;
-    width: 30px;
-    height: 100%;
-
-
-    transform: rotate(-45deg);
-    background-color: rgb(180, 155, 155);
-  }
-}
-
-#observablehq-footer nav {
-  a {
-    border-radius: 0;
-    padding: 0.75 rem;
-    /*span {
-      font-size:0.825rem;
-    }*/
-  }
-
-  a:nth-child(2) {
-    span {
-      text-align: end;
-    }
-  }
-}
-
-#observablehq-main:has([href="#post"]) {
-
-  /*view-transition-name: hero;*/
-
-  background: var(--theme-background-alt);
-  border-bottom: 1px solid var(--theme-foreground-faintest) !important;
-
-  padding: 2rem;
-  /* margin: 1rem 0;*/
-  max-width: calc(640px - 4rem);
-
-  blockquote:first-of-type {
-    font-family:var(--serif);
-    font-weight:400;
-    font-size:20px;
-  }
-
-}
-
-#observablehq-header {
-  margin: 0.6rem auto;
-}
-
 #observablehq-main {
   margin: unset;
-  min-height: unset;
-  /*calc(100vh - 26rem);*/
+  min-height: unset;/*calc(100vh - 26rem);*/
   left: max(0rem, calc(50% - 640px + 4rem));
   hyphens: auto;
-}
-
-code,
-.bio {
-  hyphens: none;
-
-  * {
-    font-family: var(--monospace) !important;
-    font-style: unset !important;
-  }
-}
-
-.article {
-  max-width: calc(640px - 2rem);
-}
-
-#observablehq-footer {
-  margin-top: 1rem;
 }
 
 #observablehq-sidebar {
@@ -217,16 +46,6 @@ code,
   display: none !important;
 }
 
-.gh {
-  position: absolute;
-  top: 0.4rem;
-  right: 0;
-}
-
-[alt="hide"] {
-  display: none;
-}
-
 /* mobile overrides */
 @media (pointer:none),
 (pointer:coarse) {
@@ -238,26 +57,8 @@ code,
     font-size: 12px;
   }
 
-  #observablehq-main:has([href="#post"]) {
-    margin: -2rem -2rem 0 -2rem;
-    max-width: unset;
-
-    blockquote:first-of-type {
-      margin-inline:unset;
-      font-size:19px;
-    }
-  }
-
-  #observablehq-center:has(main > h2 > a[href="#post"]) header hr {
-    margin-inline: -2rem;
-  }
-
   #observablehq-footer nav a span {
     font-size: 0.84rem;
   }
 
-}
-
-:is(h1:not(:nth-child(1)), h2:not(:nth-child(2)), h3, h4, h5, h6) {
-  scroll-margin-top: 3.5em;
 }

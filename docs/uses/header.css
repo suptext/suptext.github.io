@@ -1,0 +1,26 @@
+#observablehq-header {
+  margin: 0.6rem auto;
+}
+
+#observablehq-header {
+  position: relative;
+
+  & > h1 {
+    font-size: 1.75rem;
+    letter-spacing: 0.31rem;
+    font-family: var(--sans-serif);
+
+    & + h2 {
+      font-family: var(--serif);
+      color: var(--theme-foreground-faint);
+      font-size: 1.159rem;
+    }
+  }
+}
+
+.gh {
+  position: absolute;
+  top: 0.4rem;
+  right: 0;
+}
+  
