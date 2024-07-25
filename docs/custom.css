@@ -1,9 +1,9 @@
 @import url("observablehq:default.css");
 @import url("observablehq:theme-sun-faded.css");
 
-@import url("./util/marks.css");
-@import url("./util/upward.css");
-@import url("./util/progress.css");
+@import url("./uses/marks.css");
+@import url("./uses/upward.css");
+@import url("./uses/progress.css");
 
 :root {
   --theme-foreground-pop: oklch(from #f09a6f l c h / calc(alpha - 0))
