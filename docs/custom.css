@@ -175,15 +175,6 @@ body:not(:has([href="#post"])) footer nav {
 
 }
 
-/*@media (pointer:none),
-(pointer:coarse) {
-  main:has([href="#post"]) {
-    padding: 1.5rem;
-    max-width: calc(640px - 3rem) !important;
-  }
-}*/
-
-
 #observablehq-header {
   margin: 0.6rem auto;
 }
@@ -224,51 +215,6 @@ code,
 
 #observablehq-sidebar-toggle {
   display: none !important;
-}
-
-::view-transition-old(*),
-::view-transition-new(*) {
-  mix-blend-mode: normal;
-}
-
-::view-transition-old(root),
-::view-transition-new(root) {
-  animation: none;
-}
-
-/* Old stuff going out */
-
-::view-transition-old(hero) {
-  animation: fadeOut 350ms ease forwards;
-}
-
-/* New stuff coming in */
-::view-transition-new(hero) {
-  animation: fadeIn 350ms ease forwards;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateX(-50vw);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-@keyframes fadeOut {
-  from {
-    opacity: 1;
-    transform: translateX(0);
-  }
-
-  to {
-    opacity: 0;
-    transform: translateX(50vw);
-  }
 }
 
 .gh {
