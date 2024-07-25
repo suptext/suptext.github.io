@@ -20,6 +20,8 @@ A wake-up call, if you or any of your company devices had been fed the unduly up
 As specialists scramble a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
 We haven’t completely forgotten how to operate a pen and paper, but we are close. I don’t lament this apparent loss of skill but am worried about the finer print of our technical contract: *we are blind to how technologies fail us, all the time*.
 
+[...](#rest)
+
 ### Being system illiterate
 
 Okay, maybe not all the time but we are blind.
@@ -38,6 +40,8 @@ The reality is, we simply cannot read and parse all our intricate software and h
 Apart from a cohort of a few apt engineers, you and I are systems illiterate. 
 We may have a hunch as to to how our tech ‘talks’ and we might ‘speak’ their programming to some degree, but most of us are nowhere near able to follow along the more complex conversations technical systems are increasingly having on our behalf. 
 If you are proficient, kudos, but as Thursday’s incident shows, even the most technically fluent may not be capable enough when it comes to the complex grammars of our global software interlocutors.
+
+[...](#rest)
 
 ### Give error some room
 We have dedicated whole industries solely focused on foolproofing software. 
@@ -58,7 +62,9 @@ Most of our technical struggles however, reach far beyond remedying the untimely
 In fact, even *admitting* to being stalled on some minor issue, we are often ashamed of our apparent illiteracy. 
 No wonder that in a heavily platformed, multi-app environment where some are carrying 20+ years of personal and occupational data, our attention for the latest and greatest tools while our managing existing ones is spread all too thin.
 
-### Failing proficiently
+[__](#fold)
+
+### Fail proficient
 By now, it is no secret that leaning into one software ecosystem makes switching to another all the costlier as time goes on. 
 At the same time, there is no guarantee that whatever ecosystem we choose now won’ t be shelved tomorrow.
 In my experience of building academic research tools, this budding ‘time creep’ is mostly an afterthought or rarely considered at all during the initial phases of a project. 

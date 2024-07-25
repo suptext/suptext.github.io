@@ -1,0 +1,21 @@
+a[href="#exit"],a[href="#fold"] {
+  display:block;
+  font-size:0;
+  border-top:0.475rem solid var(--theme-background-alt);
+  border-bottom:1px solid var(--theme-background-alt);
+  height:1px;
+  width:1rem;
+  background-color:var(--theme-foreground-pop);
+}
+
+a[href="#rest"] {
+
+  display:block;
+  text-align: center;
+  font-size:1.5rem;
+  color: unset;
+  pointer-events: none;
+  letter-spacing: 0.1rem;
+  opacity:0.8;
+
+}
