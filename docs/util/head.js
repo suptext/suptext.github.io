@@ -44,9 +44,6 @@ const head =
 <!-- Post utils -->
 <script type="module" src="/util/words.js"/></script>
 <script type="module" src="/util/progress.js"/></script>
-<script type="module" src="/util/upward.js"/></script>
-
-<!-- Styled components -->
-<link href="./marks.css" rel="stylesheet">`
+<script type="module" src="/util/upward.js"/></script>`
 
 export default head
