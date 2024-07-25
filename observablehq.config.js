@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 
-import head from './docs/util/head.js'
-import header from './docs/util/header.js'
+import head from './code/util/head.js'
+import header from './code/util/header.js'
 // import footer from './docs/util/footer.js'
 
 // import * as fs from 'fs';
@@ -17,7 +17,8 @@ export default {
   search: false,
   typographer: true,
   theme: ["dark", "alt", "sun-faded"], // is overridden in css
-  style: "./custom.css"
+  style: "./custom.css",
+  root: 'code'
 
   // root: "docs", // path to the source root for preview
   // output: "dist", // path to the output root for build
