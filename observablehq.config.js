@@ -1,8 +1,8 @@
 // See https://observablehq.com/framework/config for documentation.
 
-import head from './docs/comp/head.js'
-import header from './docs/comp/header.js'
-import footer from './docs/comp/footer.js'
+import head from './docs/util/head.js'
+import header from './docs/util/header.js'
+import footer from './docs/util/footer.js'
 
 // import * as fs from 'fs';
 // const dir = './docs/view'

@@ -42,8 +42,8 @@ const head =
 </script>
 
 <!-- Post utils -->
-<script type="module" src="/comp/words.js"/></script>
-<script type="module" src="/comp/progress.js"/></script>
-<script type="module" src="/comp/upward.js"/></script>`
+<script type="module" src="/util/words.js"/></script>
+<script type="module" src="/util/progress.js"/></script>
+<script type="module" src="/util/upward.js"/></script>`
 
 export default head

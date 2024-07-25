@@ -38,5 +38,7 @@ The rules are simple:
 
 There is room for 24 participants. For effective participation, please register a GitHub account and bring a connected device.
 
-### References [:](#exit)
+[__](#exit)
+
+### References
 > `Leeftink & Angus (2022) > `[*`The Research Stack: A Framework for Data-driven Humanities and Social Science`*](https://sk.sagepub.com/reference/the-sage-handbook-of-digital-society/i1189.xml)` > The SAGE Handbook of Digital Society, 131.`
