@@ -10,7 +10,7 @@ style: "/type/post.css"
 
 > *How I got over my fear of one-off research prototypes and make code available for reuse.*
 
-Some have long passed their first software package publication milestone --- for me it was only as recent as 2023.
+Some have long passed their first software package publication milestone. For me it was only as recent as 2023.
 While I was investigating fuzzy text matching procedures, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
