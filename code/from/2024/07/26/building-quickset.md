@@ -35,12 +35,14 @@ If you're in social sciences, linguistics or related fields, this would likely h
 Besides some well-known point-and-click offerings, project specific requirements meant you had to find your inner hacker-spirit and glue together various tools and pass data by hand.
 Juggling various large .csv files meant getting a full picture of my research data was difficult, slowing down progress as a result.
 
-Namely, each time new codes were assigned by hand, I had to manually feed these latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
+Each time new codes were assigned by hand, I had to manually feed these latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
 Sorting through all the data became a chore as I couldn't easily get an aggregate view of the all the codes I had since assigned.
 By the time I managed to get through the coding process and generate some fancy charts, I vouched to never ever again 'code' anything by hand.
 
-Some six years later I would write a software package that would speed up doing just that.
+Six years later I would be doing a very different kind of coding. 
+But the idea of keeping your data sorted as you go never left my mind. 
+What if we could keep our datasets neat and sorted each time we'd add a new observation?
 
 [...](#rest)
 
-### Saying notebooks goodbye
+### Counting where it counts
