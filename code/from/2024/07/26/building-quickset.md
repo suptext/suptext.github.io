@@ -1,6 +1,6 @@
 ---
 toc: false
-title: QuickSet
+title: 
 style: "/type/post.css"
 ---
 
@@ -21,15 +21,26 @@ it lacks methods to quickly return a ranked list of items in decreasing order (a
 [__](#fold)
 
 ### Sorting as you go
-My first exposure to Javascript was years ago, in the form of Google Apps Script.
-Wondering whether more customisable text processing functions were possible in Google Sheets,
+My first exposure to Javascript was years ago, in the form of 'GAS' -- *Google Apps Script*.
+Wondering whether more complex text processing functions were possible in Google Sheets,
 I set out to implement a word n-gram counter in Apps Script itself.
 It did not work out.
 
-As I was coding my research data during the summer of ‘17 (as in, assigning 'codes' or categories to a bunch of texts), I tried many NLP tools to see whether coding each text by hand could be sped up.
-I had specific (but in hindsight, simple) requirements: tools needed to ingest .txt files and export .csv's
-do basic textual preprocessing and allow user codes to be assigned to certain phrases. 
-I couldn't code (but mostly, didn't want to) so a GUI was a must.
+As I was coding my research data during the summer of ‘17 (as in, assigning 'codes' or categories to a bunch of texts), I tried many NLP tools to see whether coding texts by hand could be sped up.
+I had specific (but in hindsight basic) requirements: tools needed to ingest .txt files and export .csv's
+do basic textual preprocessing and allow user codes to be assigned to sections and phrases and collected in a knowledge graph. 
+I couldn't code (but mostly didn't want to) so a GUI was a must.
 
-If you're in social science, linguistics or the like, this will probably sound familiar.
-Just run-of-the-mill stuff.
+If you're in social sciences, linguistics or related fields, this would likely have sounded familiar at the time.
+Besides some well-known point-and-click offerings, project specific requirements meant you had to find your inner hacker-spirit and glue together various tools and pass data by hand.
+Juggling various large .csv files meant getting a full picture of my research data was difficult, slowing down progress as a result.
+
+Namely, each time new codes were assigned by hand, I had to manually feed these latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
+Sorting through all the data became a chore as I couldn't easily get an aggregate view of the all the codes I had since assigned.
+By the time I managed to get through the coding process and generate some fancy charts, I vouched to never ever again 'code' anything by hand.
+
+Some six years later I would write a software package that would speed up doing just that.
+
+[...](#rest)
+
+### Saying notebooks goodbye
