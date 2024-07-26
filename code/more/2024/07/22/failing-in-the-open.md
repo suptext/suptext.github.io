@@ -15,7 +15,8 @@ Even the smallest hiccup in our technical routines makes us not only deeply unco
 Faced with this, why are we not more concerned about all the flimsy technical layers that envelop our lives *before* they imminently crack?
 
 While the Crowdstrike + Azure security whammy unfolding over the weekend has everyone up its arms, on any normal day our technical concerns rarely start before our system foundations have fully given out. 
-When a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — cost projections are now running in the billions, with almost as many lives and occupations afflicted and no less concerned sysadmin faces. 
+When a security patch pushed by Crowdstrike on Thursday did just that — rendering millions of Windows devices inoperable in the process — cost projections are now 
+running [in the billions](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost), with almost as many lives and occupations afflicted and no less concerned sysadmin faces. 
 A wake-up call, if you or any of your company devices had been fed the unduly update.
 
 As specialists scramble a solution (complicated by how affected devices have been ‘soft-bricked’ and are difficult to debug remotely), folks on the ground have been met with a harsh reality of all the critical computational work we have since outsourced. 
