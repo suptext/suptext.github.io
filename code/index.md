@@ -20,8 +20,8 @@ toc: false
 
   <div class="card">
     <a rel="next" href="./from/2024/07/26/building-quickset">
-      <h2>QuickSet walkthrough</h2>
-      <h3>How I made a fast sorted set reusable</h3>
+      <h2>Getting over code fright</h2>
+      <h3>The making of a research module</h3>
     </a>
   </div>
   
