@@ -17,6 +17,13 @@ toc: false
       <h3>Getting research data from the heap</h3>
     </a>
   </div>
+
+  <div class="card">
+    <a rel="next" href="./from/2024/07/26/building-quickset">
+      <h2>QuickSet walkthrough</h2>
+      <h3>How I made a fast sorted set reusable</h3>
+    </a>
+  </div>
   
   <div class="card">
     <a rel="next" href="./past/2024/02/28/whose-stack-is-it-anyway">
@@ -24,6 +31,7 @@ toc: false
       <h3>A technical guessing game</h3>
     </a>
   </div>
+
 
 </div>
 
