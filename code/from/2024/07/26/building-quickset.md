@@ -76,8 +76,10 @@ And as I was writing my thesis in Obisidian, some notes could become very long i
 At this point I'd come up with some requirements for producing a ranked list of chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
-2. It needed to have very little computational overhead as to not block downstream tasks
-3. A top-k list of chunks would have to be available always, not completely sorted *but* at least containing the most frequent chunks
+2. A top-k list of chunks would have to be available at all times, not completely sorted *but* at least containing the most frequent chunks
+3. It needed to have very little computational overhead as to not block downstream tasks.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MTY0MTgxLDE1MTE1MzY2NzZdfQ==
+eyJoaXN0b3J5IjpbOTY1MjY1MDk4LDE1MTE1MzY2NzZdfQ==
 -->
