@@ -79,7 +79,9 @@ At this point I'd come up with some requirements for producing a ranked list of 
 2. A top-k list of chunks would have to be available at all times, not completely sorted *but* at least containing the most frequent chunks
 3. It needed to have very little computational overhead as to not block downstream tasks.
 
-
+Never before had I implemented such things. 
+Little did I knew about how many thread before me solving this very issue.
+I had 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MjY1MDk4LDE1MTE1MzY2NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwODU0MTA3OTIsMTUxMTUzNjY3Nl19
 -->
