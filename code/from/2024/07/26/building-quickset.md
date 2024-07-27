@@ -73,7 +73,9 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
 ### Used at least
-At this point I
+At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
+
+1. Words needed to be represented as numbers somehow, as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzI0MTk3NywxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbMjI5MzUyMzIyLDE1MTE1MzY2NzZdfQ==
 -->
