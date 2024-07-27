@@ -21,6 +21,8 @@ Although Javascript's native set object already provides a fast data structure c
 it lacks methods to quickly return a ranked list of items in decreasing order of frequency (akin to a sorted map).
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations.
+It allows you to from this
+
 If you're a more wintered developer, there is no doubt much to pry apart.
 I am not sure the resulting data structure is a even set or counts as a data structure in the traditional sense.
 
@@ -95,8 +97,8 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From note to notebook
 
-#### From window to class
+#### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc4Njg3OTksNTgxMjA2NzE5LC05Nz
-A3NDM4ODgsMTUxMTUzNjY3Nl19
+eyJoaXN0b3J5IjpbMTUzNDU5OTk0LC0yMDI3ODY4Nzk5LDU4MT
+IwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ==
 -->
