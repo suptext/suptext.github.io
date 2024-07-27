@@ -96,12 +96,13 @@ How did it get to this point?
 #### From tab to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD, Google Sheets had been my goto for data analytical needs.
+Having your data and methods to 
 
 #### From note to notebook
 
-#### From this to class
+#### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcwNjgzNzYsLTUwMTA4NzU4MiwtMj
-AyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2
-Njc2XX0=
+eyJoaXN0b3J5IjpbLTExMDgwNzkxNCwtNTAxMDg3NTgyLC0yMD
+I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
+NzZdfQ==
 -->
