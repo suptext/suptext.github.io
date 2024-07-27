@@ -70,9 +70,10 @@ This way, I could produce a consistent *diff* (difference) between the state of 
 Naively, and as a first attempt, I simply counted all word chunks of a note before and after each edit.
 For small notes this is trivial, but the amount of chunks that needed to be compared between edit events scaled linearly with the length of a note.
 
-And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a counting method that keeps track of frequent chunks as users edit their notes?
+And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-### Just LFU
+### Used at least
+At this point I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTUzNjY3Nl19
+eyJoaXN0b3J5IjpbMTY1NzI0MTk3NywxNTExNTM2Njc2XX0=
 -->
