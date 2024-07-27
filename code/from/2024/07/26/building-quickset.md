@@ -64,7 +64,8 @@ Some approaches are faced by *indeterminacy* as they utilise randomisation to ge
 Others *parallelise* counting by dividing the input into smaller groups.
 As Obsidian is an Electron app, the latter of approaches could be ruled out, as JavaScript is single threaded.
 Meaning groups can only be counted one after the other while blocking other tasks (with exceptions).
-The former group of approaches was ru
+
+The former were ruled out as I was looking into methods that reliably produced the same result each time---comparing word chunks *before* and *after* the user would input text in the editor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMzczOTQxXX0=
+eyJoaXN0b3J5IjpbMTY1OTEyOTAwNl19
 -->
