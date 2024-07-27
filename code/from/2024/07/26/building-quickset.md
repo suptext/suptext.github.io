@@ -26,7 +26,7 @@ it lacks methods to quickly return a ranked list of items in decreasing order of
 To a ranked representation:
 
 If you're a more wintered developer than I, there is no doubt much to pick apart.
-I am not sure the resulting data structure is a even counts as a set or counts as a data structure in the traditional sense.
+I am not sure the resulting data structure even counts as a set or a data structure in the traditional sense.
 
 But it's how I got over my fear of code.
 
@@ -35,7 +35,7 @@ But it's how I got over my fear of code.
 ### Sorting as you go
 My first exposure to Javascript was years ago, in the form of *GAS* -- Google Apps Script.
 Wondering whether more complex text processing functions were possible in Google Sheets,
-I set out to implement a word n-gram counter in Apps Script itself.
+I set out to implement a word association counter in Apps Script itself.
 It did not work out.
 
 As I was coding my research data during the summer of ‘17 (as in, assigning 'codes' or categories to a bunch of texts), I tried many NLP tools to see whether coding texts by hand could be sped up.
@@ -93,7 +93,7 @@ It just seemed a needlessly complex way to combine JavaScript functions into a -
 There just seemed to many ways to represent my list of requirements as code with clear intent.
 How did it get to this point?
 
-#### From tab to table
+### From tab to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD, Google Sheets had been my goto for data analytical needs.
 
@@ -101,7 +101,7 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDI4NDI4NCwtNTAxMDg3NTgyLC0yMD
-I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzE3MzY0NjMsLTUwMTA4NzU4MiwtMj
+AyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2
+Njc2XX0=
 -->
