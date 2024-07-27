@@ -20,10 +20,11 @@ While prototyping an Obsidian plugin, I faced the issue of having to frequenctly
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
 it lacks methods to quickly return a ranked list of items in decreasing order of frequency (akin to a sorted map).
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
-'naively' trading memory for performance in application critical situations.
-It allows you to from this
+'naively' trading memory for performance in application critical situations. It allows you to go from a list of unordered numbers:
 
-If you're a more wintered developer, there is no doubt much to pry apart.
+To a ranked representation:
+
+If you're a more wintered developer, there is no doubt much to pick apart.
 I am not sure the resulting data structure is a even set or counts as a data structure in the traditional sense.
 
 But it's how I got over my fear of code.
@@ -99,6 +100,6 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDU5OTk0LC0yMDI3ODY4Nzk5LDU4MT
-IwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ==
+eyJoaXN0b3J5IjpbLTUwMTA4NzU4MiwtMjAyNzg2ODc5OSw1OD
+EyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX0=
 -->
