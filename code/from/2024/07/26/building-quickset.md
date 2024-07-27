@@ -79,11 +79,12 @@ At this point I'd come up with some requirements for producing a ranked list of 
 2. A top-k list of chunks would have to be available at all times, not completely sorted *but* at least containing the most frequent chunks
 3. It needed to have very little computational overhead as to not block downstream tasks.
 
-Never before had I implemented such things. 
-Just a as little did I know about the many that had gone before me solving these exact things.
+Never before had I implemented such things.
+Little did I know about the many that had gone before me solving these exact things.
 Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) in the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
 For instance, why someone would use `classes` in their code eluded me.
-It just seemed a needlessly complex way to collect 
+It just seemed a needlessly complex way to combine JavaScript functions into a ano --- what exactly?
+
 
 ### From note to notebook
 I felt comfortable enough with the language basics but it had been a long road to get there.
@@ -91,5 +92,5 @@ I felt comfortable enough with the language basics but it had been a long road t
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Nzk0ODY4MCwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbMTIxODY2MzUwMywxNTExNTM2Njc2XX0=
 -->
