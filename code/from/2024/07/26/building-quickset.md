@@ -65,7 +65,9 @@ Others *parallelise* counting by dividing the input into smaller groups.
 As Obsidian is an Electron app, the latter of approaches could be ruled out, as JavaScript is single threaded.
 Meaning groups can only be counted one after the other while blocking other tasks (with exceptions).
 
-The former were ruled out as I was looking into methods that reliably produced the same result each time---comparing word chunks *before* and *after* the user would input text in the editor.
+The former were ruled out as I was looking into methods that reliably produced the same result each time---comparing word chunks *before* and *after* the user would input text in the note editor.
+This way, I could produce a consistent *diff* (difference) between the state of a note as it was before a user edited it and after.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTEyOTAwNl19
+eyJoaXN0b3J5IjpbLTc2ODI2NTgxXX0=
 -->
