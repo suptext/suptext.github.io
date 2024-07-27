@@ -12,8 +12,9 @@ style: "/type/post.css"
 
 Some have long passed their first software package publication milestone. For me it was only as recent as 2023.
 For the longest time, even the idea of learning to code seemed dizzying, despite doing ample data analysis and visualisation work.
-It was like I wanted to prove you could do complex computations without ever touching the abstract bits.
-Spoilers: I picked it up eventually, and started investigating fuzzy text matching procedures some time a, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
+It was as if I wanted to prove you could do complex computations without ever touching the abstract bits.
+Spoiler: I eventually conquered my fear, and started investigating fuzzy text matching procedures some time after.
+While trying to build an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
 it lacks methods to quickly return a ranked list of items in decreasing order (akin to a sorted map).
@@ -49,5 +50,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODU1MTk3NF19
+eyJoaXN0b3J5IjpbLTg4NjA5MDgzOF19
 -->
