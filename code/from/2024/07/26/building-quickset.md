@@ -83,8 +83,10 @@ Never before had I implemented such things.
 Little did I know about the many that had gone before me solving these exact things.
 Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) in the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
 For instance, why someone would use `classes` in their code eluded me.
-It just seemed a needlessly complex way to combine JavaScript functions into a ano --- what exactly?
+It just seemed a needlessly complex way to combine JavaScript functions into a --- what exactly?
 
+There just seemed to many ways to represent your requirements with clear intent.
+How did I get to this point?
 
 ### From note to notebook
 I felt comfortable enough with the language basics but it had been a long road to get there.
@@ -92,5 +94,5 @@ I felt comfortable enough with the language basics but it had been a long road t
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODY2MzUwMywxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbLTU1MDk0NjY4NSwxNTExNTM2Njc2XX0=
 -->
