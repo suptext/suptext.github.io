@@ -15,9 +15,9 @@ For me it was only as recent as 2023.
 The longest time, even the idea of learning to code seemed dizzying, despite having done ample data analysis and visualisation work before then.
 It was as if I wanted to prove you could do complex computations without ever touching the abstract bits.
 As an undergrad I elected multiple Intro to Comp-Sci classes but never made it past the first classes as I couldn't keep up with the rate my peers just seem to 'get it'.
-Spoiler: After many years of bumping my head and kicking my feet, I eventually managed to pick up some cursory programming and started investigating fuzzy text matching procedures some time after.
-While prototyping an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
+Spoiler: After many years of bumping my head and kicking my feet, I eventually managed to pick up some cursory programming and started investigating fuzzy text matching procedures soon after.
 
+While prototyping an Obsidian plugin that tracks changes as you write, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
 it lacks methods to quickly return a ranked list of items in decreasing order of frequency (akin to a sorted map).
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
@@ -25,8 +25,8 @@ it lacks methods to quickly return a ranked list of items in decreasing order of
 
 To a ranked representation:
 
-If you're a more wintered developer, there is no doubt much to pick apart.
-I am not sure the resulting data structure is a even set or counts as a data structure in the traditional sense.
+If you're a more wintered developer than I, there is no doubt much to pick apart.
+I am not sure the resulting data structure is a even counts as a set or counts as a data structure in the traditional sense.
 
 But it's how I got over my fear of code.
 
@@ -101,7 +101,7 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTMwMzk4NSwtNTAxMDg3NTgyLC0yMD
+eyJoaXN0b3J5IjpbLTI2NDI4NDI4NCwtNTAxMDg3NTgyLC0yMD
 I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
 NzZdfQ==
 -->
