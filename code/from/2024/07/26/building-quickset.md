@@ -6,12 +6,13 @@ style: "/type/post.css"
 
 # The making of QuickSet
 ## [Getting over code fright](#post)
-[`26 July 2024`](#lead) `/` [`...`](#count)
+[`26 July 2024`](#lead) `/` [`words`](#count)
 
 > *How I got over my fear of coding one-off research prototypes and make QuickSet available for reuse.*
 
-Some have long passed their first software package publication milestone. For me it was only as recent as 2023.
-For the longest time, even the idea of learning to code seemed dizzying, despite doing ample data analysis and visualisation work.
+Some have long passed their first software package publication milestone. 
+For me it was only as recent as 2023.
+For the longest time, even the idea of learning to code seemed dizzying, despite having done ample data analysis and visualisation work.
 It was as if I wanted to prove you could do complex computations without ever touching the abstract bits.
 Spoiler: I eventually picked it up and started investigating fuzzy text matching procedures some time after.
 While prototyping an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
@@ -94,5 +95,6 @@ I felt comfortable enough with the language basics but it had been a long road t
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbOTA5MDA1Mzc3LC05NzA3NDM4ODgsMTUxMT
+UzNjY3Nl19
 -->
