@@ -47,12 +47,12 @@ Sorting through all the data became a chore as I couldn't easily get an aggregat
 By the time I managed to get through coding my data and generate some fancy charts, I vouched to never again 'code' anything by hand.
 
 Six years later I would be doing a very different kind of coding. 
-But the idea of keeping your data progressively sorted as you go never left my mind. 
+But the idea of keeping your data sorted as you go stuck with me as I navigated this foreign language.
 What if we could keep our datasets ranked and tidy each time we'd add a new observation?
 
 [...](#rest)
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNzc0NDMxXX0=
+eyJoaXN0b3J5IjpbLTExOTA5NjI1MzRdfQ==
 -->
