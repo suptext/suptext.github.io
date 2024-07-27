@@ -21,9 +21,9 @@ it lacks methods to quickly return a ranked list of items in decreasing order of
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations.
 If you're a more wintered developer, there is no doubt much to pry apart.
-I am not sure the resulting data structure is a even set or a data structure in the traditional sense.
+I am not sure the resulting data structure is a even set or counts as a data structure in the traditional sense.
 
-But it's how I conquered my fear of code.
+But it's how I got over my fear of code.
 
 [__](#fold)
 
@@ -74,5 +74,5 @@ And as I was writing my thesis in Obisidian, some notes could become very long i
 
 ### Just LFU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU3NjE0NDRdfQ==
+eyJoaXN0b3J5IjpbMTUxMTUzNjY3Nl19
 -->
