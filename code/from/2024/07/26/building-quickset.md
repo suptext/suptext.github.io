@@ -85,8 +85,8 @@ Although I had some experience with JavaScript at this time from building [Obser
 For instance, why someone would use `classes` in their code eluded me.
 It just seemed a needlessly complex way to combine JavaScript functions into a --- what exactly?
 
-There just seemed to many ways to represent your requirements with clear intent.
-How did I get to this point?
+There just seemed to many ways to represent my list of requirements as code with clear intent.
+How did it get to this point?
 
 ### From note to notebook
 I felt comfortable enough with the language basics but it had been a long road to get there.
@@ -94,5 +94,5 @@ I felt comfortable enough with the language basics but it had been a long road t
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDk0NjY4NSwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX0=
 -->
