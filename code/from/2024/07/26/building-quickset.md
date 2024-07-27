@@ -77,7 +77,7 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-### 
+### What's this path?
 At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
@@ -93,7 +93,7 @@ It just seemed a needlessly complex way to combine JavaScript functions into a -
 There just seemed to many ways to represent my list of requirements as code with clear intent.
 How did it get to this point?
 
-#### From tab to table
+#### From tabs to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD, Google Sheets had been my goto for data analytical needs.
 Having your data and methods side by side, freely assignable to a seemingly infinite grid opens many doors.
@@ -110,7 +110,7 @@ To my surprise, switching from the tabs of a Google Sheet to the tables of a Big
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI3NjYxNywtNTU3NDI4ODM3LC0xND
+eyJoaXN0b3J5IjpbLTUyMTYyMTU1NiwtNTU3NDI4ODM3LC0xND
 MyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4Njg3OTksNTgxMjA2
 NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl19
 -->
