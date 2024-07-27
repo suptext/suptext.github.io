@@ -56,7 +56,10 @@ What if we could keep our datasets neat and tidy each time we added a new observ
 Say you have a long list of word chunks, how would you go about counting the most frequent chunks?
 Depending on your requirements, this can be as trivial or complex as you need it to be.
 If time is not a concern, you can simply go over the list one-by-one and keep count of all the chunks you have encountered.
-If 
+If accuracy is not a concern, you could skip counting each nth chunk to get a an approximate sample of the most frequent ones.
+But what if they are both a concern?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTk2OTQzOF19
+eyJoaXN0b3J5IjpbLTIxMzExODA1ODldfQ==
 -->
