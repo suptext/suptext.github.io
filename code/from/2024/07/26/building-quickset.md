@@ -53,8 +53,10 @@ What if we could keep our datasets neat and tidy each time we added a new observ
 [...](#rest)
 
 ### Making it count
-Say you have a long list of word chunks, how would you go about counting the most frequent chunk?
-
+Say you have a long list of word chunks, how would you go about counting the most frequent chunks?
+Depending on your requirements, this can be as trivial or complex as you need it to be.
+If time is not a concern, you can simply go over the list one-by-one and keep count of all the chunks you have encountered.
+If 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA5MTE5MjldfQ==
+eyJoaXN0b3J5IjpbMTE3MTk2OTQzOF19
 -->
