@@ -93,7 +93,7 @@ It just seemed a needlessly complex way to combine JavaScript functions into a -
 There just seemed to many ways to represent my list of requirements as code with clear intent.
 How did it get to this point?
 
-### From tab to table
+#### From tab to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD, Google Sheets had been my goto for data analytical needs.
 
@@ -101,7 +101,7 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE3MzY0NjMsLTUwMTA4NzU4MiwtMj
+eyJoaXN0b3J5IjpbLTIxMjcwNjgzNzYsLTUwMTA4NzU4MiwtMj
 AyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2
 Njc2XX0=
 -->
