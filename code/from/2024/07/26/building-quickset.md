@@ -101,14 +101,15 @@ I was especially fond of Sheets ability to do array operations, which meant you 
 The `query` function also had leg up when it came to more complex filtering and sorting operations.
 I've built various tool using just these inbuilt functions, from heat maps to corpus processors and text graph extractors.
 
-
+Sheets can be a catnip to early coders, as you get accustomed to columnar data formats without even realising it.
+T
 
 
 #### From note to notebook
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDczNjU4NCwtNTAxMDg3NTgyLC0yMD
-I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
-NzZdfQ==
+eyJoaXN0b3J5IjpbOTAxNDk0NTczLC01MDEwODc1ODIsLTIwMj
+c4Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3
+Nl19
 -->
