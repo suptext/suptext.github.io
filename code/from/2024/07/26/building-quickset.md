@@ -60,7 +60,8 @@ If accuracy is not a concern, you could skip counting each nth chunk to get a an
 But what if they are both a concern?
 
 There exist all sorts of ingenious methods that allow you to (approximately) count and rank a set of items, which I won't go into here.
-
+Some approaches are faced by *indeterminacy* as they utilise randomisation to get to their final result.
+Others *parallelise* the counting 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMDc0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjMwNzU0MzldfQ==
 -->
