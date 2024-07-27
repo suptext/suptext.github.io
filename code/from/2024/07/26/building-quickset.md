@@ -48,11 +48,11 @@ By the time I managed to get through coding my data and generate some fancy char
 
 Six years later I would be doing a very different kind of coding. 
 But the idea of keeping your data sorted as you go stuck with me as I navigated this foreign language.
-What if we could keep our datasets ranked and tidy each time we'd add a new observation?
+What if we could keep our datasets neat and tidy each time we added a new observation?
 
 [...](#rest)
 
-### Counting where it counts
+### Making it count
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA5NjI1MzRdfQ==
+eyJoaXN0b3J5IjpbNTU0NDA2MTk5XX0=
 -->
