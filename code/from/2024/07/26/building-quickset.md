@@ -21,7 +21,7 @@ it lacks methods to quickly return a ranked list of items in decreasing order (a
 [__](#fold)
 
 ### Sorting as you go
-My first exposure to Javascript was years ago, in the form of 'GAS' -- *Google Apps Script*.
+My first exposure to Javascript was years ago, in the form of GAS -- *Google Apps Script*.
 Wondering whether more complex text processing functions were possible in Google Sheets,
 I set out to implement a word n-gram counter in Apps Script itself.
 It did not work out.
@@ -47,5 +47,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDY2Mzk3XX0=
+eyJoaXN0b3J5IjpbMTA1NzU1NjAwN119
 -->
