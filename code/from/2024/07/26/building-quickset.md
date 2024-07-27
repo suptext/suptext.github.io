@@ -80,12 +80,14 @@ At this point I'd come up with some requirements for producing a ranked list of 
 3. It needed to have very little computational overhead as to not block downstream tasks.
 
 Never before had I implemented such things. 
-Little did I knew about how many thread before me solving this very issue.
+Just a as little did I know about how many had gone before me solving these very issues.
 Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
+
+
 
 ### From note to notebook
 
-### From code to cla
+### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ4NjI5MSwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbLTE2NDY0Mjc4NiwxNTExNTM2Njc2XX0=
 -->
