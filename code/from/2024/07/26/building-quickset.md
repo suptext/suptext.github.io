@@ -81,7 +81,7 @@ At this point I'd come up with some requirements for producing a ranked list of 
 
 Never before had I implemented such things. 
 Little did I knew about how many thread before me solving this very issue.
-I had 
+Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) the year before
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU0MTA3OTIsMTUxMTUzNjY3Nl19
+eyJoaXN0b3J5IjpbMjA2MzIyOTU0OCwxNTExNTM2Njc2XX0=
 -->
