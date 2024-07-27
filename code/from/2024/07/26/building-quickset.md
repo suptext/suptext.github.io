@@ -11,7 +11,8 @@ style: "/type/post.css"
 > *How I got over my fear of coding one-off research prototypes and make QuickSet available for reuse.*
 
 Some have long passed their first software package publication milestone. For me it was only as recent as 2023.
-For the longest time, even the idea of lea
+For the longest time, even the idea of learning to code seemed dizzying, despite doing ample data analysis and visualisation work.
+It was like I wanted to prove you could do complex computations without ever looking 
 While I was investigating fuzzy text matching procedures, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
@@ -48,5 +49,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzk0MTUxN119
+eyJoaXN0b3J5IjpbLTE3MzI5NDI5NDFdfQ==
 -->
