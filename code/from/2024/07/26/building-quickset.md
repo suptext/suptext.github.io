@@ -97,14 +97,15 @@ How did it get to this point?
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD, Google Sheets had been my goto for data analytical needs.
 Having your data and methods side by side, freely assignable to a seemingly infinite grid opens many doors.
-I was especially fond of Sheets ability to
+I was especially fond of Sheets ability to do array operations, which meant you could define a function in a single cell and execute it to a range of cells elsewhere---something Microsoft Excel had implemented but felt more cumbersome to use at the time.
+The `query` function also had leg up o
 
 
 #### From note to notebook
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcxMDA1NzQsLTUwMTA4NzU4MiwtMj
-AyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2
-Njc2XX0=
+eyJoaXN0b3J5IjpbMTE2MzIxOTU0LC01MDEwODc1ODIsLTIwMj
+c4Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3
+Nl19
 -->
