@@ -67,7 +67,9 @@ Meaning groups can only be counted one after the other while blocking other task
 
 The former were ruled out as I was looking into methods that reliably produced the same result each time---comparing word chunks *before* and *after* the user would input text in the note editor.
 This way, I could produce a consistent *diff* (difference) between the state of a note as it was before a user edited it and after.
+Naively, and as a first attempt, I simply counted all word chunks of a note before and after each edit.
+For small notes this is trivial, but the amount of chunks that 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODI2NTgxXX0=
+eyJoaXN0b3J5IjpbMzE5NjAxMzU1XX0=
 -->
