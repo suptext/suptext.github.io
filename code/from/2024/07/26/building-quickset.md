@@ -103,14 +103,15 @@ I've built various tool using just these inbuilt functions, from heat maps to co
 
 Sheets can be a catnip to early coders, as you get accustomed to columnar data formats without even realising it.
 By writing complex query functions over and over, I was implicitly learning another skill: translating data processing needs into a formal query, not unlike SQL.
-The first time I came across Bigquery 
+The first time I came across Google Bigquery, I wasn't as dumbfounded as I was years earlier when I encountered Apps Script.
+To my surprise, switching from the tabs of a Google Sheet to the tables of a Bigquery database had been much easier than expected when I was tasked with w
 
 
 #### From note to notebook
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTI2MTk1NCwtNTAxMDg3NTgyLC0yMD
-I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
-NzZdfQ==
+eyJoaXN0b3J5IjpbNTg2NTI1MTc3LC01MDEwODc1ODIsLTIwMj
+c4Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3
+Nl19
 -->
