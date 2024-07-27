@@ -80,8 +80,10 @@ At this point I'd come up with some requirements for producing a ranked list of 
 3. It needed to have very little computational overhead as to not block downstream tasks.
 
 Never before had I implemented such things. 
-Just a as little did I know about the many that had gone before me solving these very issues.
-Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
+Just a as little did I know about the many that had gone before me solving these exact things.
+Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) in the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
+For instance, why someone would use `classes` in their code eluded me.
+It just seemed a needlessly complex way to collect 
 
 ### From note to notebook
 I felt comfortable enough with the language basics but it had been a long road to get there.
@@ -89,5 +91,5 @@ I felt comfortable enough with the language basics but it had been a long road t
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3Nzg3NTY5LDE1MTE1MzY2NzZdfQ==
+eyJoaXN0b3J5IjpbMTk4Nzk0ODY4MCwxNTExNTM2Njc2XX0=
 -->
