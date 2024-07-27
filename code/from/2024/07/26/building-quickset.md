@@ -82,6 +82,8 @@ At this point I'd come up with some requirements for producing a ranked list of 
 Never before had I implemented such things. 
 Little did I knew about how many thread before me solving this very issue.
 Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
+
+### Making the jump
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk1NjEyNzEsMTUxMTUzNjY3Nl19
+eyJoaXN0b3J5IjpbOTQ5MzYyMDEwLDE1MTE1MzY2NzZdfQ==
 -->
