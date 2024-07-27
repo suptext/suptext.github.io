@@ -13,14 +13,15 @@ style: "/type/post.css"
 Some have long passed their first software package publication milestone. For me it was only as recent as 2023.
 For the longest time, even the idea of learning to code seemed dizzying, despite doing ample data analysis and visualisation work.
 It was as if I wanted to prove you could do complex computations without ever touching the abstract bits.
-Spoiler: I eventually conquered my fear, and started investigating fuzzy text matching procedures some time after.
+Spoiler: I eventually picked it up, and started investigating fuzzy text matching procedures some time after.
 While trying to build an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
-it lacks methods to quickly return a ranked list of items in decreasing order (akin to a sorted map).
+it lacks methods to quickly return a ranked list of items in decreasing order of order to frequenc(akin to a sorted map).
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations.
-If you're a more wintered developem
+If you're a more wintered developer, there is no doubt much to pick apart.
+But this is how I conquered my code fright.
 
 [__](#fold)
 
@@ -51,5 +52,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzQzNzY2N119
+eyJoaXN0b3J5IjpbLTEwMTA5NzM0NzhdfQ==
 -->
