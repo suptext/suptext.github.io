@@ -37,15 +37,15 @@ Juggling various large .csv files meant getting a full picture of my research da
 
 Each time new codes were assigned by hand, I had to manually feed the latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
 Sorting through all the data became a chore as I couldn't easily get an aggregate view of the all the codes I had since assigned.
-By the time I managed to get through the coding process and generate some fancy charts, I vouched to never ever again 'code' anything by hand.
+By the time I managed to get through coding my data and generate some fancy charts, I vouched to never ever again 'code' anything by hand.
 
 Six years later I would be doing a very different kind of coding. 
-But the idea of keeping your data sorted as you go never left my mind. 
-What if we could keep our datasets neat and sorted each time we'd add a new observation?
+But the idea of keeping your data progressively sorted as you go never left my mind. 
+What if we could keep our datasets ranked and tidy each time we'd add a new observation?
 
 [...](#rest)
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTIyMjg1NV19
+eyJoaXN0b3J5IjpbLTg2NDY2Mzk3XX0=
 -->
