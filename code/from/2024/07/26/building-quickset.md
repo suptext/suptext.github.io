@@ -73,21 +73,21 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
 ### Making the list
-At this point I'd come up with some requirements for producing a ranked list of chunks as users edited their notes:
+At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
 2. A top-k list of chunks would have to be available at all times, not completely sorted *but* at least containing the most frequent chunks
 3. It needed to have very little computational overhead as to not block downstream tasks.
 
 Never before had I implemented such things. 
-Just a as little did I know about how many had gone before me solving these very issues.
+Just a as little did I know about the many that had gone before me solving these very issues.
 Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
 
-
-
 ### From note to notebook
+I felt comfortable enough with the language basics but it had been a long road to get there.
+
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY0Mjc4NiwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbMzI3Nzg3NTY5LDE1MTE1MzY2NzZdfQ==
 -->
