@@ -35,16 +35,16 @@ It did not work out.
 
 As I was coding my research data during the summer of ‘17 (as in, assigning 'codes' or categories to a bunch of texts), I tried many NLP tools to see whether coding texts by hand could be sped up.
 I had specific but in hindsight basic requirements: tools needed to ingest .txt files and export .csv's
-do basic textual preprocessing and allow user codes to be assigned to sections and phrases and collected in a knowledge graph. 
+do basic textual preprocessing and allow user codes to be assigned to word clusters and collected in a knowledge graph. 
 I couldn't code (but mostly didn't want to) so a GUI was a must.
 
 If you were in social sciences, linguistics or related fields at the time, this would likely have sounded familiar.
-Besides some well-known point-and-click offerings, project specific requirements meant you had to find your inner hacker-spirit and glue together various tools and pass data by hand.
+Besides some well-known point-and-click offerings, project specific requirements meant you had to find your inner hacker-spirit and glue together various tools and executables and pass data by hand.
 Juggling various large .csv files meant getting a full picture of my research data was difficult, slowing down progress as a result.
 
 Each time new codes were assigned by hand, I had to manually feed the latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
 Sorting through all the data became a chore as I couldn't easily get an aggregate view of the all the codes I had since assigned.
-By the time I managed to get through coding my data and generate some fancy charts, I vouched to never ever again 'code' anything by hand.
+By the time I managed to get through coding my data and generate some fancy charts, I vouched to never again 'code' anything by hand.
 
 Six years later I would be doing a very different kind of coding. 
 But the idea of keeping your data progressively sorted as you go never left my mind. 
@@ -54,5 +54,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxOTExMTY3XX0=
+eyJoaXN0b3J5IjpbNDcyNzc0NDMxXX0=
 -->
