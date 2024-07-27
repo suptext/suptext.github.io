@@ -17,13 +17,13 @@ Spoiler: I eventually picked it up and started investigating fuzzy text matching
 While prototyping an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
-it lacks methods to quickly return a ranked list of items in decreasing order of order to frequency (akin to a sorted map).
+it lacks methods to quickly return a ranked list of items in decreasing order of frequency (akin to a sorted map).
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations.
-If you're a more wintered developer, there is no doubt much to pick apart.
-I am not sure the resulting data structure is even a set or a data structure in the traditional sense.
+If you're a more wintered developer, there is no doubt much to pry apart.
+I am not sure the resulting data structure is a even set or a data structure in the traditional sense.
 
-But this is how I conquered my code fright.
+But it's how I conquered my fear of code.
 
 [__](#fold)
 
@@ -54,5 +54,5 @@ What if we could keep our datasets neat and tidy each time we added a new observ
 
 ### Making it count
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MzY4MjIwXX0=
+eyJoaXN0b3J5IjpbMTAyNTgxNjcxNV19
 -->
