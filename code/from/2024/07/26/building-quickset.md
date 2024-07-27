@@ -73,7 +73,7 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-### Making the list
+### What I needed
 At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
@@ -89,12 +89,14 @@ It just seemed a needlessly complex way to combine JavaScript functions into a -
 There just seemed to many ways to represent my list of requirements as code with clear intent.
 How did it get to this point?
 
-### From note to notebook
+#### From tabs to tables
+
+#### From note to notebook
 I felt comfortable enough with the language basics but it had been a long road to get there.
 
 
 ### From code to class(book)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMT
-UzNjY3Nl19
+eyJoaXN0b3J5IjpbLTE3NTY1NTQwNiw1ODEyMDY3MTksLTk3MD
+c0Mzg4OCwxNTExNTM2Njc2XX0=
 -->
