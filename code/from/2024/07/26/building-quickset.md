@@ -31,11 +31,11 @@ I had specific (but in hindsight basic) requirements: tools needed to ingest .tx
 do basic textual preprocessing and allow user codes to be assigned to sections and phrases and collected in a knowledge graph. 
 I couldn't code (but mostly didn't want to) so a GUI was a must.
 
-If you're in social sciences, linguistics or related fields, this would likely have sounded familiar at the time.
+If you were in social sciences, linguistics or related fields at the time, this would likely have sounded familiar.
 Besides some well-known point-and-click offerings, project specific requirements meant you had to find your inner hacker-spirit and glue together various tools and pass data by hand.
 Juggling various large .csv files meant getting a full picture of my research data was difficult, slowing down progress as a result.
 
-Each time new codes were assigned by hand, I had to manually feed these latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
+Each time new codes were assigned by hand, I had to manually feed the latest data into [WORDij](https://www.wordij.net/), an open-source word association tool I used to generate text graphs.
 Sorting through all the data became a chore as I couldn't easily get an aggregate view of the all the codes I had since assigned.
 By the time I managed to get through the coding process and generate some fancy charts, I vouched to never ever again 'code' anything by hand.
 
@@ -46,3 +46,6 @@ What if we could keep our datasets neat and sorted each time we'd add a new obse
 [...](#rest)
 
 ### Counting where it counts
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI3OTIyMjg1NV19
+-->
