@@ -18,8 +18,9 @@ While trying to build an Obsidian plugin, I faced the issue of having to frequen
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
 it lacks methods to quickly return a ranked list of items in decreasing order (akin to a sorted map).
-[`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of investigating a data structure that sits in between a native set and a map,
+[`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations.
+If you're a more wintered developem
 
 [__](#fold)
 
@@ -50,5 +51,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjA5MDgzOF19
+eyJoaXN0b3J5IjpbMTkxNzQzNzY2N119
 -->
