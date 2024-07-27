@@ -77,7 +77,7 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-### What I needed
+### 
 At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
@@ -110,7 +110,7 @@ To my surprise, switching from the tabs of a Google Sheet to the tables of a Big
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzQyODgzNywtMTQzMjUzMDMyOSwtNT
-AxMDg3NTgyLC0yMDI3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQz
-ODg4LDE1MTE1MzY2NzZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTI3NjYxNywtNTU3NDI4ODM3LC0xND
+MyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4Njg3OTksNTgxMjA2
+NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl19
 -->
