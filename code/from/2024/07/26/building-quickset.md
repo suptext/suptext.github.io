@@ -89,14 +89,14 @@ It just seemed a needlessly complex way to combine JavaScript functions into a -
 There just seemed to many ways to represent my list of requirements as code with clear intent.
 How did it get to this point?
 
-#### From tabs to tables
+#### From tab to table
+I felt comfortable enough with the language basics by now but it had been a long road to get there.
+For most of my master's and early 
 
 #### From note to notebook
-I felt comfortable enough with the language basics but it had been a long road to get there.
 
-
-### From code to class(book)
+#### From cell to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY1NTQwNiw1ODEyMDY3MTksLTk3MD
-c0Mzg4OCwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbMzI5NTgzOTIyLDU4MTIwNjcxOSwtOTcwNz
+QzODg4LDE1MTE1MzY2NzZdfQ==
 -->
