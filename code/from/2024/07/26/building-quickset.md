@@ -72,7 +72,7 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-### 
+### Making the list
 At this point I'd come up with some requirements for producing a ranked list of chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
@@ -83,7 +83,9 @@ Never before had I implemented such things.
 Little did I knew about how many thread before me solving this very issue.
 Although I had some experience with JavaScript at this time from building [Observable notebooks](https://observablehq.com) the year-and-a-half before, never did I make the jump from formalising the (often disorganised) notebooks into something more reusable.
 
-### Making the jump
+### From note to notebook
+
+### From code to cla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5MzYyMDEwLDE1MTE1MzY2NzZdfQ==
+eyJoaXN0b3J5IjpbLTExNzQ4NjI5MSwxNTExNTM2Njc2XX0=
 -->
