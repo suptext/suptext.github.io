@@ -102,7 +102,7 @@ The `query` function also had leg up when it came to more complex filtering and 
 I've built various tool using just these inbuilt functions, from heat maps to corpus processors and text graph extractors.
 
 Sheets can be like catnip to early coders, as you get accustomed to columnar data formats without even realising it.
-By writing complex query functions over and over, I was implicitly learning another skill: translating data processing needs into a formal query, not unlike SQL.
+By writing complex queries over and over, I was implicitly learning another skill: translating data processing needs into a formal query, not unlike SQL.
 The first time I came across Google Bigquery, I wasn't as dumbfounded as I was years earlier when I encountered Apps Script.
 To my surprise, switching from the tabs of a Google Sheet to the tables of a Bigquery database had been much easier than expected when I was tasked with writing a query to extract bipartite graphs from a dataset of social media interactions with news posts. 
 
@@ -110,7 +110,7 @@ To my surprise, switching from the tabs of a Google Sheet to the tables of a Big
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjMzODQ3NCwtNTAxMDg3NTgyLC0yMD
-I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMj
+AyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2
+Njc2XX0=
 -->
