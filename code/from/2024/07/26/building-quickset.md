@@ -62,7 +62,9 @@ But what if they are both a concern?
 There exist all sorts of ingenious methods that allow you to (approximately) count and rank a set of items, which I won't go into here.
 Some approaches are faced by *indeterminacy* as they utilise randomisation to get to their final result.
 Others *parallelise* counting by dividing the input into smaller groups.
-As Obsidian is an Electron app, the latter could be ruled out, as JavaScript is single threaded, meaning 
+As Obsidian is an Electron app, the latter of approaches could be ruled out, as JavaScript is single threaded.
+Meaning groups can only be counted one after the other while blocking other tasks (with exceptions).
+The former group of approaches was ru
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NjEyODFdfQ==
+eyJoaXN0b3J5IjpbODAyMzczOTQxXX0=
 -->
