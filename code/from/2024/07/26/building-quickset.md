@@ -12,7 +12,8 @@ style: "/type/post.css"
 
 Some have long passed their first software package publication milestone. 
 For me it was only as recent as 2023.
-For the longest time, even the idea of learning to code seemed dizzying, despite having done ample data analysis and visualisation work before then.
+The longest time, even the idea of learning to code seemed dizzying, despite having done ample data analysis and visualisation work before then.
+As an underg
 It was as if I wanted to prove you could do complex computations without ever touching the abstract bits.
 Spoiler: I eventually picked it up and started investigating fuzzy text matching procedures some time after.
 While prototyping an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
@@ -100,6 +101,7 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTA4NzU4MiwtMjAyNzg2ODc5OSw1OD
-EyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbLTEzMzQ4NjU0NTMsLTUwMTA4NzU4MiwtMj
+AyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2
+Njc2XX0=
 -->
