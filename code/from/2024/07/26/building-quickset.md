@@ -95,8 +95,8 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From note to notebook
 
-#### From cell to class
+#### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTYyOTE3MSw1ODEyMDY3MTksLTk3MD
-c0Mzg4OCwxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbLTIwMjc4Njg3OTksNTgxMjA2NzE5LC05Nz
+A3NDM4ODgsMTUxMTUzNjY3Nl19
 -->
