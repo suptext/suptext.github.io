@@ -14,8 +14,8 @@ Some have long passed their first software package publication milestone.
 For me it was only as recent as 2023.
 The longest time, even the idea of learning to code seemed dizzying, despite having done ample data analysis and visualisation work before then.
 It was as if I wanted to prove you could do complex computations without ever touching the abstract bits.
-As an undergrad I elected multiple Intro to Comp-Sci classes but never made it past the first lectures as I couldn't keep i
-Spoiler: I eventually picked it up and started investigating fuzzy text matching procedures some time after.
+As an undergrad I elected multiple Intro to Comp-Sci classes but never made it past the first classes as I couldn't keep up with the rate my peers just seem to 'get it'.
+Spoiler: After many years of bumping my head and kicking my feet, I eventually managed to pick up some cursory programming and started investigating fuzzy text matching procedures some time after.
 While prototyping an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
@@ -101,7 +101,7 @@ During my master's and early PhD, Google Sheets had been my goto for data analyt
 
 #### From this to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNTE3ODM3LC01MDEwODc1ODIsLTIwMj
-c4Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3
-Nl19
+eyJoaXN0b3J5IjpbLTY4OTMwMzk4NSwtNTAxMDg3NTgyLC0yMD
+I3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2
+NzZdfQ==
 -->
