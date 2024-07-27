@@ -17,10 +17,12 @@ Spoiler: I eventually picked it up, and started investigating fuzzy text matchin
 While trying to build an Obsidian plugin, I faced the issue of having to frequenctly count and rank small chunks of text and compare them between two sets.
 
 Although Javascript's native set object already provides a fast data structure compared to objects and arrays,
-it lacks methods to quickly return a ranked list of items in decreasing order of order to frequenc(akin to a sorted map).
+it lacks methods to quickly return a ranked list of items in decreasing order of order to frequency (akin to a sorted map).
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations.
 If you're a more wintered developer, there is no doubt much to pick apart.
+I am not sure the resulting data structure is even a set or a data structure in the traditional sense.
+
 But this is how I conquered my code fright.
 
 [__](#fold)
@@ -32,7 +34,7 @@ I set out to implement a word n-gram counter in Apps Script itself.
 It did not work out.
 
 As I was coding my research data during the summer of ‘17 (as in, assigning 'codes' or categories to a bunch of texts), I tried many NLP tools to see whether coding texts by hand could be sped up.
-I had specific (but in hindsight basic) requirements: tools needed to ingest .txt files and export .csv's
+I had specific but in hindsight basic requirements: tools needed to ingest .txt files and export .csv's
 do basic textual preprocessing and allow user codes to be assigned to sections and phrases and collected in a knowledge graph. 
 I couldn't code (but mostly didn't want to) so a GUI was a must.
 
@@ -52,5 +54,5 @@ What if we could keep our datasets ranked and tidy each time we'd add a new obse
 
 ### Counting where it counts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA5NzM0NzhdfQ==
+eyJoaXN0b3J5IjpbODQxOTExMTY3XX0=
 -->
