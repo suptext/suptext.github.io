@@ -120,14 +120,14 @@ Days were lost on trying to come up with a writing system where I wanted to add 
 Copy-pasting snippets from the web to modify Obsidian's interface elements became my initiation to JavaScript.
 Whereas 'objects' never really clicked in my previous excursions into the language, now it became what was meant by the language's credo *everything is an object*: 
 from the smallest pieces of data to the comprehensive built-in methods to process them, objects allow the layered organisation of all these things by binding them in any which way you like.
-This freedom of compositing abstract objects is dizzying at first, as the same data and methods can be referenced by multiple objects. 
-
+This freedom of compositing abstract objects is dizzying at first, as the same data and methods can be referenced anytime, anywhere and can be part of multiple objects. 
+You have to develop a feeling for where things originate, which can be 
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUyNzE5ODIsLTUyMTYyMTU1NiwtNT
-U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
-Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
-19
+eyJoaXN0b3J5IjpbLTM3MTM4ODk3MCwtNTIxNjIxNTU2LC01NT
+c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
+ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
+0=
 -->
