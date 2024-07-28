@@ -126,13 +126,13 @@ You have to develop a feeling for where things originate, which can be especiall
 As I got increasingly comfortable with the execution flow of both Obsidian and the dev console, another weight was lifted: that of command line interfaces.
 Previously, I'd only ever used CMD and Powershell to troubleshoot my device and run rudimentary programs, often frightened by the speed at which you're bombarded with system and error messages after inputting a command.
 But by jumping in and out of the Obisidian dev console, it made realise command based interfaces are just that: a shell for inputting and outputting commands.
-As I wanted to sunc
+As I wanted to sync my notes between different devices, I quickly settled on git to synchronise my notes with a GitHub account for free (altough Obsidian a sync service built-in, .
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUxMjU4OTcsLTUyMTYyMTU1NiwtNT
-U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
-Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
-19
+eyJoaXN0b3J5IjpbMjAxMTU4ODczOCwtNTIxNjIxNTU2LC01NT
+c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
+ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
+0=
 -->
