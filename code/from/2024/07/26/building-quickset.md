@@ -124,12 +124,12 @@ This freedom of compositing abstract objects is dizzying at first, as the same d
 You have to develop a feeling for where things originate, which can be especially complicated for complex apps as Obsidian.
 
 As I got increasingly comfortable with the execution flow of both Obsidian and the dev console, another weight was lifted: that of command line interfaces.
-Where previously, I'd only ever used CMPowershell to troubleshoot my device or 
+Previously, I'd only ever used CMD and Powershell to troubleshoot my device and run rudimentary programs, frightened by the speed at which you're bombarded with system and error messages after exe
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI2OTExODUsLTUyMTYyMTU1NiwtNT
-U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
-Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
-19
+eyJoaXN0b3J5IjpbLTk2NzI4ODkzNywtNTIxNjIxNTU2LC01NT
+c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
+ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
+0=
 -->
