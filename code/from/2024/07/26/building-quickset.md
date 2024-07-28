@@ -115,15 +115,15 @@ I don't remember how exactly I came across Obsidian, but it seemed a breath of f
 As many before me, I caught the Obsidian bug and spent hours finicking the interface to my needs, exploring the hundreds of user plugins that allow you to customise pretty much anything of the note-taking app.
 
 This meant becoming proficient in its base language Markdown, of which the base syntax isn't too complicated, but has some interesting ways in which it is parsed and converted into a final marked-up HTML page for reading and exporting to PDf.
-Days were lost on trying to come up with a writing system where I wanted to add a timestamp to *each* and every sentence I wrote, not only for bookkeeping but mostly to see whether notes could be linked together by time of writing in Obsidian's Graph View. I exercised Obsidian's developer console to investigate the app's internals---good practice as this console is the very same used by Chromium/Elwctro based apps.
+Days were lost on trying to come up with a writing system where I wanted to add a timestamp to *each* and every sentence I wrote, not only for bookkeeping but mostly to see whether notes could be linked together by time of writing in Obsidian's Graph View. I exercised Obsidian's developer console to investigate the app's internals---good practice as the provided console is the very same used by Chromium/Electron based apps.
 
-Copy-pasting snippets from the web to modify various interface elements became my initiation to JavaScript.
+Copy-pasting snippets from the web to modify Obsidian's interface elements became my initiation to JavaScript.
+Whereas 'objects' never really clicked in my previous excursions into the language, now it became clear 
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMDU3MTc1LC01MjE2MjE1NTYsLTU1Nz
-QyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3NTgyLC0yMDI3ODY4
-Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ
-==
+eyJoaXN0b3J5IjpbLTg3NDM0NTksLTUyMTYyMTU1NiwtNTU3ND
+I4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4Njg3
+OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl19
 -->
