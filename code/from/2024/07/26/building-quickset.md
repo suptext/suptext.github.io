@@ -127,14 +127,11 @@ As I got increasingly comfortable with the execution flow of both Obsidian and t
 Previously, I'd only ever used CMD and Powershell to troubleshoot my device and run rudimentary programs, often frightened by the speed at which you're bombarded with system and error messages after inputting a command.
 But by jumping in and out of the Obisidian dev console, it made realise command based interfaces are just that: a shell for inputting and outputting commands.
 As I wanted to sync my notes between different devices, I quickly settled on git to synchronise my notes with a GitHub account.
-Altough Obsidian has a built-in sync service, the draw of free syncing + version control had me spending lots of time figuring out how to install git clients on different (mobile) devices and break my head over its countless commands.
-
-
-
+Altough Obsidian has a built-in sync service, the draw of free syncing + version control had me spending lots of time figuring out how to install git clients on different (mobile) devices and headbreaking over its countless commands.
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMzMzY2MTgsLTUyMTYyMTU1NiwtNT
+eyJoaXN0b3J5IjpbLTE4MTMyMjQ4NjQsLTUyMTYyMTU1NiwtNT
 U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
 Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
 19
