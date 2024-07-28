@@ -95,7 +95,7 @@ How did it get to this point?
 
 #### From tabs to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
-During my master's and early PhD, Google Sheets had been my goto for data analytical needs.
+During my master's and early PhD (2016-19), Google Sheets had been my goto for data analytical needs.
 Having your data and methods side by side, freely assignable to a seemingly infinite grid opens many doors.
 I was especially fond of Sheets ability to do array operations, which meant you could define a function in a single cell and execute it to a range of cells elsewhere---something Microsoft Excel had implemented but felt more cumbersome to use at the time.
 The `query` function also had leg up when it came to more complex filtering and sorting operations.
@@ -105,14 +105,15 @@ Sheets can be like catnip to early coders, as you get accustomed to columnar dat
 By writing complex queries over and over, I was implicitly learning another skill: translating data processing needs into a formal query, not unlike SQL.
 The first time I came across Google Bigquery, I wasn't as dumbfounded as I was years earlier when I encountered Apps Script.
 To my surprise, switching from the tabs of a spreadsheet to the tables of a Bigquery database went smoother  than expected
-When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the ways in which  SQL allows you to name and split more complex queries into simpler subqueries felt like an immediate improvement over its tab based alternativenl 
+When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the ways in which  SQL allows you to name and split more complex queries into simpler subqueries the generate datatables felt like an immediate improvement over its tab-based counterpart. 
 
 #### From note to notebook
 
+
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MzI2NTA2LC01MjE2MjE1NTYsLTU1Nz
-QyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3NTgyLC0yMDI3ODY4
-Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MzQ2NzI2NTEsLTUyMTYyMTU1NiwtNT
+U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
+Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
+19
 -->
