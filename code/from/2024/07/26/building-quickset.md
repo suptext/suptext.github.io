@@ -118,13 +118,13 @@ This meant becoming proficient in its base language Markdown, of which the base 
 Days were lost on trying to come up with a writing system where I wanted to add a timestamp to *each* and every sentence I wrote, not only for bookkeeping but mostly to see whether notes could be linked together by time of writing in Obsidian's Graph View. I exercised Obsidian's developer console to investigate the app's internals---good practice as the provided console is the very same used by Chromium/Electron based apps.
 
 Copy-pasting snippets from the web to modify Obsidian's interface elements became my initiation to JavaScript.
-Whereas 'objects' never really clicked in my previous excursions into the language, now it became what was meant by 'everything's and object': from the smallest pieces of data to the comprehensive in-built methods that allow you to operate on this data, objects allow the
+Whereas 'objects' never really clicked in my previous excursions into the language, now it became what was meant by 'everything's and object': from the smallest pieces of data to the comprehensive built-in methods to operate on this data, objects allow the 
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4ODg4MTI1LC01MjE2MjE1NTYsLTU1Nz
-QyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3NTgyLC0yMDI3ODY4
-Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ
-==
+eyJoaXN0b3J5IjpbMTQxMTY5ODgzMCwtNTIxNjIxNTU2LC01NT
+c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
+ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
+0=
 -->
