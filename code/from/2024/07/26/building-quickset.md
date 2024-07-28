@@ -95,9 +95,9 @@ How did it get to this point?
 
 #### From tabs to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
-During my master's and early PhD (2016-19), Google Sheets had been my goto for data analytical needs.
-Having your data and methods side by side, freely assignable to a seemingly infinite grid opens many doors.
-I was especially fond of Sheets ability to do array operations, which meant you could define a function in a single cell and execute it to a range of cells elsewhere---something Microsoft Excel had implemented but felt more cumbersome to use at the time.
+During my master's and early PhD (2016-19), Google Sheets + RAW Graphs had been my goto for data analytical needs.
+Having data and methods side by side, freely assignable to a seemingly infinite grid unlocked many doors.
+I was especially fond of Sheet's ability to do array operations, which meant you could define a function in a single cell and apply it to a range of cells anywhere in your spreadsheet---something Microsoft Excel had implemented but felt less ergonomic o use at the time.
 The `query` function also had leg up when it came to more complex filtering and sorting operations.
 I've built various tool using just these inbuilt functions, from heat maps to corpus processors and text graph extractors.
 
@@ -112,7 +112,7 @@ When tasked with designing a query to extract bipartite graphs from a large data
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ2NzI2NTEsLTUyMTYyMTU1NiwtNT
+eyJoaXN0b3J5IjpbLTEwNjIzMzg4MzQsLTUyMTYyMTU1NiwtNT
 U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
 Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
 19
