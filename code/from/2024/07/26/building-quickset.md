@@ -129,10 +129,12 @@ But by jumping in and out of the Obisidian dev console, it made realise command 
 As I wanted to sync my notes between different devices, I quickly settled on git to synchronise my notes with a GitHub account.
 Altough Obsidian has a built-in sync service, the draw of free syncing + version control had me spending lots of time figuring out how to install git clients on different (mobile) devices and headbreaking over its countless commands.
 
+You can see the pattern: coding for me never started with coding, but a secondary goal.
+
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTA2NjE2NiwtMTgxMzIyNDg2NCwtNT
-IxNjIxNTU2LC01NTc0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4
-NzU4MiwtMjAyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OC
-wxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbOTkzMjgyNDU2LC0xODEzMjI0ODY0LC01Mj
+E2MjE1NTYsLTU1NzQyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3
+NTgyLC0yMDI3ODY4Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LD
+E1MTE1MzY2NzZdfQ==
 -->
