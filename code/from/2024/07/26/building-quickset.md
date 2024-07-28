@@ -112,13 +112,15 @@ A little before stepping into SQL land, I had encountered another piece of influ
 Late 2020, I struggled housing my research notes and citations under one roof, for which Qiqqa had served me well.
 Until I had to do some actual writing that is, as exporting your notes wasn't the most straightforward experience.
 I don't remember how exactly I came across Obsidian, but it seemed a breath of fresh air in note-taking land.
-As many before me, I caught the Obsidian bug and spent hours finicking the interface to my needs, exploring the hundreds of user plugins that allow you to custo
+As many before me, I caught the Obsidian bug and spent hours finicking the interface to my needs, exploring the hundreds of user plugins that allow you to customise pretty much anything of the note-taking app.
+
+This meant becoming proficient in its base language Markdown, of which the base syntax isn't too complicated, but has some interesting ways in which it is parsed and converted into a final HTML 
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTY3MTczOSwtNTIxNjIxNTU2LC01NT
-c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
-ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
-0=
+eyJoaXN0b3J5IjpbLTExOTIzNjc4OTAsLTUyMTYyMTU1NiwtNT
+U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
+Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
+19
 -->
