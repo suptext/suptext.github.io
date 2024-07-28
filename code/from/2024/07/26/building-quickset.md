@@ -125,12 +125,13 @@ You have to develop a feeling for where things originate, which can be especiall
 
 As I got increasingly comfortable with the execution flow of both Obsidian and the dev console, another weight was lifted: that of command line interfaces.
 Previously, I'd only ever used CMD and Powershell to troubleshoot my device and run rudimentary programs, often frightened by the speed at which you're bombarded with system and error messages after inputting a command.
-But by jumping in and out of the Obisidian dev console, i
+But by jumping in and out of the Obisidian dev console, it made realise command based interfaces are just that: a shell for inputting and outputting commands.
+As I wanted to sunc
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcyODcwODAsLTUyMTYyMTU1NiwtNT
+eyJoaXN0b3J5IjpbLTE1MjUxMjU4OTcsLTUyMTYyMTU1NiwtNT
 U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
 Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
 19
