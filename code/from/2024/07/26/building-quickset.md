@@ -108,13 +108,14 @@ To my surprise, switching from the tabs of a spreadsheet to the tables of a Bigq
 When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the ways in which  SQL allows you to name and split more complex queries into simpler subqueries the generate datatables felt like an immediate improvement over its tab-based counterpart. 
 
 #### From note to notebook
-A little before stepping into SQL land, I encountered another piece of influential software that I use to this day. Enter Obsidian. 
-Late 2020, I struggled housing my research notes and citations under one roof, and had been using Qiqqa much before.
+A little before stepping into SQL land, I had encountered another piece of influential software that I use to this day. Enter Obsidian. 
+Late 2020, I struggled housing my research notes and citations under one roof, for which Qiqqa had served me well.
+Until I had to do some actual writing that is, as exporting your notes wasn't the most 
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MzI0ODQ4LC01MjE2MjE1NTYsLTU1Nz
+eyJoaXN0b3J5IjpbMTQ5NTc0MzU0LC01MjE2MjE1NTYsLTU1Nz
 QyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3NTgyLC0yMDI3ODY4
 Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ
 ==
