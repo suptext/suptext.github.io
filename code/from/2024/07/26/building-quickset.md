@@ -115,13 +115,15 @@ I don't remember how exactly I came across Obsidian, but it seemed a breath of f
 As many before me, I caught the Obsidian bug and spent hours finicking the interface to my needs, exploring the hundreds of user plugins that allow you to customise pretty much anything of the note-taking app.
 
 This meant becoming proficient in its base language Markdown, of which the base syntax isn't too complicated, but has some interesting ways in which it is parsed and converted into a final marked-up HTML page for reading and exporting to PDf.
-Days were lost on trying to come up with a writing system where I wanted to add a timestamp to *each* and every sentence I wrote, for bookkeeping.
+Days were lost on trying to come up with a writing system where I wanted to add a timestamp to *each* and every sentence I wrote, not only for bookkeeping but mostly to see whether notes could be linked together by time of writing in Obsidian's Graph View.
+
+This meant opening 
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTc4MDIwMiwtNTIxNjIxNTU2LC01NT
-c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
-ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
-0=
+eyJoaXN0b3J5IjpbLTEyMDQ0NjI2MzAsLTUyMTYyMTU1NiwtNT
+U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
+Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
+19
 -->
