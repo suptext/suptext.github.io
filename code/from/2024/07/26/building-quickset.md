@@ -133,11 +133,12 @@ You can see the pattern: coding for me never starts with coding but almost exclu
 Whereas in previous years I'd almost have to force myself to sit down to grasp even the simplest snippets of code, now understanding and writing code was merely an intermediary to a goal.
 It's a feeling that no course, lecture or tutorial had been able to tease out.
 
+It's the very feeling that made me fall in love with Observable---a platform where code gets out of your way and it's simply you
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc4MjE3OTUsLTE4MTMyMjQ4NjQsLT
-UyMTYyMTU1NiwtNTU3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEw
-ODc1ODIsLTIwMjc4Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4OD
-gsMTUxMTUzNjY3Nl19
+eyJoaXN0b3J5IjpbLTg5OTI4OTUwNiwtMTgxMzIyNDg2NCwtNT
+IxNjIxNTU2LC01NTc0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4
+NzU4MiwtMjAyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OC
+wxNTExNTM2Njc2XX0=
 -->
