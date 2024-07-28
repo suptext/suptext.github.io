@@ -123,13 +123,13 @@ from the smallest pieces of data to the comprehensive built-in methods to proces
 This freedom of compositing abstract objects is dizzying at first, as the same data and methods can be referenced anytime, anywhere and can be part of multiple objects. 
 You have to develop a feeling for where things originate, which can be especially complicated for complex apps as Obsidian.
 
-As I got increasingly comfortable with the execution flow of both Obsidian and the dev console, another weight was lifted: that of the command line interface.
-Wh
+As I got increasingly comfortable with the execution flow of both Obsidian and the dev console, another weight was lifted: that of command line interfaces.
+Where previously, I'd only ever used CMPowershell to troubleshoot my device or 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTM5OTIyMSwtNTIxNjIxNTU2LC01NT
-c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
-ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
-0=
+eyJoaXN0b3J5IjpbLTE2MjI2OTExODUsLTUyMTYyMTU1NiwtNT
+U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
+Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
+19
 -->
