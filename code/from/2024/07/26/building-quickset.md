@@ -130,14 +130,14 @@ As I wanted to sync my notes between different devices, I quickly settled on git
 Altough Obsidian has a built-in sync service, the draw of free syncing + version control had me spending lots of time figuring out how to install git clients on different (mobile) devices and headbreaking over its countless commands.
 
 You can see the pattern: coding for me never starts with coding but almost exclusively an unrelated goal.
-Whereas in previous years I'd almost have to force myself to sit down to grasp even the simplest snippets of code, now understanding and writing code was merely the intermediary to goal.
-
+Whereas in previous years I'd almost have to force myself to sit down to grasp even the simplest snippets of code, now understanding and writing code was merely an intermediary to a goal.
+It's a feeling that no course, lecture or tutorial had been able to tease out.
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjQ5NDYxMCwtMTgxMzIyNDg2NCwtNT
-IxNjIxNTU2LC01NTc0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4
-NzU4MiwtMjAyNzg2ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OC
-wxNTExNTM2Njc2XX0=
+eyJoaXN0b3J5IjpbLTE0Nzc4MjE3OTUsLTE4MTMyMjQ4NjQsLT
+UyMTYyMTU1NiwtNTU3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEw
+ODc1ODIsLTIwMjc4Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4OD
+gsMTUxMTUzNjY3Nl19
 -->
