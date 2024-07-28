@@ -105,13 +105,13 @@ Sheets can be like catnip to early coders, as you get accustomed to columnar dat
 By writing complex queries over and over, I was implicitly learning another skill: translating data processing needs into a formal query, not unlike SQL.
 The first time I came across Google Bigquery, I wasn't as dumbfounded as I was years earlier when I encountered Apps Script.
 To my surprise, switching from the tabs of a spreadsheet to the tables of a Bigquery database went smoother  than expected
-When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the
+When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the ways in which  SQL allows you to name and split more complex queries into simpler subqueries felt like an immediate improvement over its tab based alternativenl 
 
 #### From note to notebook
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NjE5NTMyLC01MjE2MjE1NTYsLTU1Nz
+eyJoaXN0b3J5IjpbNDQ5MzI2NTA2LC01MjE2MjE1NTYsLTU1Nz
 QyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3NTgyLC0yMDI3ODY4
 Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ
 ==
