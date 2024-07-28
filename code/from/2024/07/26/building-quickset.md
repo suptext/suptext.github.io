@@ -110,13 +110,15 @@ When tasked with designing a query to extract bipartite graphs from a large data
 #### From note to notebook
 A little before stepping into SQL land, I had encountered another piece of influential software that I use to this day. Enter Obsidian. 
 Late 2020, I struggled housing my research notes and citations under one roof, for which Qiqqa had served me well.
-Until I had to do some actual writing that is, as exporting your notes wasn't the most 
+Until I had to do some actual writing that is, as exporting your notes wasn't the most straightforward experience.
+I don't remember how exactly I came across Obsidian, but it seemed a breath of fresh air in note-taking land.
+As many before me, I caught the Obsidian bug and spent hours finicking the interface to my needs, exploring the hundreds of user plugins that allow you to custo
 
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTc0MzU0LC01MjE2MjE1NTYsLTU1Nz
-QyODgzNywtMTQzMjUzMDMyOSwtNTAxMDg3NTgyLC0yMDI3ODY4
-Nzk5LDU4MTIwNjcxOSwtOTcwNzQzODg4LDE1MTE1MzY2NzZdfQ
-==
+eyJoaXN0b3J5IjpbLTg3NTY3MTczOSwtNTIxNjIxNTU2LC01NT
+c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
+ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
+0=
 -->
