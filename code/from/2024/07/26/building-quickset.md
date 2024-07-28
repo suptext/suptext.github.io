@@ -97,7 +97,7 @@ How did it get to this point?
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD (2016-19), Google Sheets + RAW Graphs had been my goto for data analytical needs.
 Having data and methods side by side, freely assignable to a seemingly infinite grid unlocked many doors.
-I was especially fond of Sheet's ability to do array operations, which meant you could define a function in a single cell and apply it to a range of cells anywhere in your spreadsheet---something Microsoft Excel had implemented but felt less ergonomic o use at the time.
+I was especially fond of Sheet's ability to do array operations, which meant you could define a function in a single cell and apply it to a range of cells anywhere in your spreadsheet---something Microsoft Excel had implemented but felt less ergonomic to use at the time.
 The `query` function also had leg up when it came to more complex filtering and sorting operations.
 I've built various tool using just these inbuilt functions, from heat maps to corpus processors and text graph extractors.
 
@@ -108,12 +108,12 @@ To my surprise, switching from the tabs of a spreadsheet to the tables of a Bigq
 When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the ways in which  SQL allows you to name and split more complex queries into simpler subqueries the generate datatables felt like an immediate improvement over its tab-based counterpart. 
 
 #### From note to notebook
-
+Some time before stepping into SQL land, I'd encountered another piece of influential software that I use to this day. Late 2020,
 
 #### From window to class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIzMzg4MzQsLTUyMTYyMTU1NiwtNT
-U3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEwODc1ODIsLTIwMjc4
-Njg3OTksNTgxMjA2NzE5LC05NzA3NDM4ODgsMTUxMTUzNjY3Nl
-19
+eyJoaXN0b3J5IjpbLTg1NDE2NzQ1NSwtNTIxNjIxNTU2LC01NT
+c0Mjg4MzcsLTE0MzI1MzAzMjksLTUwMTA4NzU4MiwtMjAyNzg2
+ODc5OSw1ODEyMDY3MTksLTk3MDc0Mzg4OCwxNTExNTM2Njc2XX
+0=
 -->
