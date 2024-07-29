@@ -24,7 +24,7 @@ We haven’t completely forgotten how to operate a pen and paper, but we are clo
 
 [...](#rest)
 
-### Being system illiterate
+## Being system illiterate
 
 Okay, maybe not all the time but we are blind.
 Blind to a minute file synchronisation error of some note-taking app we use to jot down our thoughts. 
@@ -45,7 +45,7 @@ If you are proficient, kudos, but as Thursday’s incident shows, even the most 
 
 [...](#rest)
 
-### Give error some room
+## Give error some room
 We have dedicated whole industries solely focused on foolproofing software. 
 Slick infoboxes greet us when installing apps, user profiles come fully preconfigured and if an error occurs, troubleshooting guides are only clicks away. 
 Onboarding new users should be as seamless as possible and without harm, while updates are aggressively pushed with ‘sensible’ defaults. 
@@ -66,7 +66,7 @@ No wonder that in a heavily platformed, multi-app environment where some are car
 
 [__](#fold)
 
-### Failing proficiently
+## Fail proficiently
 It is no secret that leaning into one software ecosystem makes switching to another all the costlier as time goes by. 
 At the same time, there is no guarantee that whatever ecosystem we choose now won’ t be shelved tomorrow.
 In my experience of building academic research tools, this budding ‘time creep’ is mostly an afterthought or rarely considered at all during the initial phases of a project. 
