@@ -6,7 +6,7 @@
 /* customisation */
 
 :is(h1:not(:nth-child(1)), h2:not(:nth-child(2)), h3, h4, h5, h6) {
-  scroll-margin-top: 3.5em;
+  scroll-margin-top: 4.35rem;
 }
 
 #observablehq-main {
