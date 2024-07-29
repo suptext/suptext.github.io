@@ -26,7 +26,7 @@ The slew of assumptions baked into each component results in a terribly complex 
 What file types are accepted? Which languages are supported? How can interfaces be operated? Customised? Which legacy systems are depended on? Who made these decisions in the first place? 
 When developer considerations are distributed this far and wide, you cannot help but wonder: *whose stack is it anyway*?
 
-### Game setup
+## Game setup
 This workshop is based on a collaborative game where we  answer just that. 
 Your participation will attune you to the popular but often obfuscated stacks used within industry and academia and the non-level playing fields on which they are built. 
 Contestants are given pointers to map out a (research) stack of choice, and through role reversal are given the opportunity to guess which industry or academic players were involved in their creation. 
@@ -42,5 +42,5 @@ There is room for 24 participants. For effective participation, please register 
 
 [__](#exit)
 
-### References
+## References
 `Leeftink & Angus (2022) > `[*`The Research Stack: A Framework for Data-driven Humanities and Social Science`*](https://sk.sagepub.com/reference/the-sage-handbook-of-digital-society/i1189.xml)` > The SAGE Handbook of Digital Society, 131.`
