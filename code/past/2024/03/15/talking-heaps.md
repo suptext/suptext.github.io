@@ -28,5 +28,5 @@ Or at least, until another sandbox is built around it.
 
 [_](#exit)
 
-### Links
+## Links
 `Cooney, Adrian (2022) > `[*`Web scraping via Javascript Heap Snapshots`*](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
