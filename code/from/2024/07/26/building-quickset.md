@@ -23,7 +23,56 @@ it lacks methods to quickly return a ranked list of items in decreasing order of
 [`QuickSet`](https://www.npmjs.com/package/@suptxt/quickset) is the result of me investigating a data structure that sits in between a native set and a map,
 'naively' trading memory for performance in application critical situations. It allows you to go from a list of unordered numbers:
 
+
+```js
+import QuickSet from "npm:@suptxt/quickset";
+let numbers = Array.from({length:200},()=>parseInt(Math.random()*10))
+
+display(numbers)
+```
+
 To a ranked representation:
+
+```js
+let minRange = view(Inputs.range([0,numbers.length],{label:'Iterations',step:1,value:0}))
+```
+
+<!--
+```js
+
+  
+  let set = new QuickSet({
+      
+        // integer range 
+           span: 10,
+        // amount of top-k slots
+           slot: 8,
+        // minimum counting threshold
+           freq: 0,
+        // maximum counting threshold
+           high: 256,
+        // overwrite items when tied
+           fifo: false
+      
+    });
+  
+  for (let i = 0; i <  minRange; ++i) {
+    set.minsum(numbers[i]);
+  }
+
+```
+
+```js
+const name = Generators.observe((notify) => {
+  const inputted = () => notify(set.top());
+  inputted();
+  minRange;
+});
+```
+```js
+name
+```-->
+
 
 If you're a more wintered developer than I, there is no doubt much to pick apart.
 I am not sure the resulting data structure even counts as a set or a data structure in the traditional sense.
