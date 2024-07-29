@@ -24,11 +24,22 @@
     }
   }
 
+  h2 {
+    font-family: var(--sans-serif);
+    font-size: 1.15em;
+  }
+
   h3 {
     padding-block-start: 0.5rem;
     font-family: var(--sans-serif);
-    font-size: 1.035em;
+    text-transform: uppercase;
+    font-size: 0.725em;
+    letter-spacing: 3px;
     color: var(--theme-foreground);
+  }
+
+  h4 {
+    font-family: var(--sans-serif);
   }
 }
 

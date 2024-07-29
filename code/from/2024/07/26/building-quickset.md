@@ -32,7 +32,7 @@ But it's how I got over my fear of code.
 
 [__](#fold)
 
-### Sorting as you go
+## Sorting as you go
 My first exposure to Javascript was years ago, in the form of *GAS* -- Google Apps Script.
 Wondering whether more complex text processing functions were possible in Google Sheets,
 I set out to implement a word association counter in Apps Script itself.
@@ -57,7 +57,7 @@ What if we could keep our datasets neat and tidy each time we added a new observ
 
 [...](#rest)
 
-### Making it count
+## Make it count
 Say you have a long list of word chunks, how would you go about counting the most frequent ones?
 Depending on your requirements, this can be as trivial or complex as you want it to be.
 If time is not a concern, you can simply go over the list one-by-one and keep count of all the chunks you have encountered.
@@ -77,7 +77,7 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-### What's this path?
+## What's this path?
 At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
@@ -93,7 +93,7 @@ It just seemed a needlessly complex way to combine JavaScript functions into a -
 There just seemed to many ways to represent my list of requirements as code with clear intent.
 How did it get to this point?
 
-#### From tabs to table
+### From tab to table
 I felt comfortable enough with the language basics by now but it had been a long road to get there.
 During my master's and early PhD (2016-19), Google Sheets + RAW Graphs had been my goto for data analytical needs.
 Having data and methods side by side, freely assignable to a seemingly infinite grid unlocked many doors.
@@ -107,7 +107,7 @@ The first time I came across Google Bigquery, I wasn't as dumbfounded as I was y
 To my surprise, switching from the tabs of a spreadsheet to the tables of a Bigquery database went smoother  than expected
 When tasked with designing a query to extract bipartite graphs from a large dataset of social media interactions with news posts, the ways in which  SQL allows you to name and split more complex queries into simpler subqueries the generate datatables felt like an immediate improvement over its tab-based counterpart. 
 
-#### From note to notebook
+### From note to notebook
 A little before stepping into SQL land, I had encountered another piece of influential software that I use to this day. Enter Obsidian. 
 Late 2020, I struggled housing my research notes and citations under one roof, for which Qiqqa had served me well.
 Until I had to do some actual writing that is, as exporting your notes wasn't the most straightforward experience.
@@ -134,7 +134,7 @@ Whereas in previous years I'd almost have to force myself to sit down to grasp e
 It's a feeling that no course, lecture or tutorial had been able to tease out.
 It's the very feeling that made me fall in love with Observable---a collaborative platform where code gets out of your way and it's simply you, a notebook and a global (JavaScript) window.
 
-#### From window to class
+### From window to class
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDAwNTA5NjQsLTE4MTMyMjQ4NjQsLT
 UyMTYyMTU1NiwtNTU3NDI4ODM3LC0xNDMyNTMwMzI5LC01MDEw
