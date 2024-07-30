@@ -15,7 +15,7 @@
   left:calc(100% - 0.5 * var(--size));
   background: var(--theme-foreground-pop);
   font-size: 0;
-  opacity:0.85;
+  opacity:0.8;
 }
 
 .upward:before {

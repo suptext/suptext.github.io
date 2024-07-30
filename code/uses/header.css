@@ -2,14 +2,14 @@
   margin: 0.6rem auto;
 }
 
-#observablehq-header > h1 {
+#observablehq-header>h1 {
   font-size: 1.75rem;
-  font-weight:700;
+  font-weight: 700;
   letter-spacing: 0.31rem;
   font-family: var(--sans-serif);
 }
 
-#observablehq-header > h1 + h2 {
+#observablehq-header>h1+h2 {
   color: var(--theme-foreground-faint);
   font-size: 1.159rem;
 }
@@ -19,4 +19,3 @@
   top: 0.4rem;
   right: 0;
 }
-  
