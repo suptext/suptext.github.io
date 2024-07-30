@@ -6,7 +6,7 @@
   position: absolute;
   display: block !important;
 
-  height: 5rem;
+  height: 2.25rem;
   top: 0;
   right: 0;
   overflow: hidden;
@@ -14,7 +14,7 @@
   margin-right: -2rem;
   
   pointer-events: none;
-  transition: all 450ms ease;
+  transition: all 500ms ease;
 
   nav {
     position: relative;
@@ -33,13 +33,13 @@
     margin: 0;
     pointer-events: none;
 
-    transition: all 375ms ease;
+    transition: all 325ms ease;
 
     :is(ol, div) {
       padding-inline-start: 1rem;
 
 
-      transition: all 500ms ease;
+      transition: all 425ms ease;
       filter: blur(6px);
       opacity: 0;
       transform: translateY(25%);
