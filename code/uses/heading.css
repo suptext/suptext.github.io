@@ -1,6 +1,6 @@
 #observablehq-main {
   h1:first-of-type:has(+ h2) {
-    font-size: 1.1em;
+    font-size: 1.2rem;
     font-family: var(--sans-serif);
     color: var(--theme-foreground);
 
@@ -8,7 +8,7 @@
 
     & + h2 {
       font-family: var(--serif);
-      font-size: 1.1em;
+      font-size: 1.2rem;
       color: var(--theme-foreground-faint);
 
       a[href] {
@@ -18,7 +18,7 @@
       &:after {
         display: block;
         position: relative;
-        top: 0.35em;
+        top: 0.35rem;
         text-align: center;
       }
     }
@@ -26,7 +26,7 @@
 
   h2 {
     font-family: var(--sans-serif);
-    font-size: 1.15em;
+    font-size: 1.1em;
   }
 
   h3 {

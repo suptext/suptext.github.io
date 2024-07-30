@@ -11,8 +11,8 @@
 
    margin-top:-1rem;
    nav {
+       backdrop-filter: blur(4px);
       
-      backdrop-filter: blur(4px);
       display:block;
       padding-block: 1rem;
       border:unset;
