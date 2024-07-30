@@ -1,31 +1,28 @@
 #observablehq-toc {
-   position: absolute;
-   display:block!important;
+  position: absolute;
+  display:block!important;
    
-   height:2rem;
-   top:0;
-   overflow: hidden;
+  height:2.25rem;
+  top:0;
+  overflow: hidden;
 
-   transition: all 250ms;
-   width:100%;
+  transition: all 250ms;
+  width:100%;
 
-   margin-top:-1rem;
    nav {
-       backdrop-filter: blur(4px);
-      
-      display:block;
-      padding-block: 1rem;
-      border:unset;
-      width:100%;
+    backdrop-filter: blur(4px);
+    padding-block: 1rem;
+       
+    display:block;
+    border:unset;
+    border-bottom: 1px solid var(--theme-foreground-faint);
+    width:100%;
+    margin:0;
+  }
 
-      border-bottom: 1px solid var(--theme-foreground-faint);
-      margin:0;
-
-   }
-
-   nav + div {
+  nav + div {
     transform:translateY(3.25rem);
-   }
+  }
 
 }
 
@@ -36,20 +33,18 @@
 .toggle-label {
   display: block;
   cursor: pointer;
-  font-size: 11px;
   border-radius: 5px;
-  padding: 1rem;
-  font-size: 1rem;
+  height:1rem;
+  padding:0.5rem;
   text-align: end;
   
 }
 
 .toggle-label:hover {
-    color:var(--theme-foreground-pop);
+  color:var(--theme-foreground-pop);
 }
 
 
 #observablehq-toc:has(.unfolder:checked) {
-
-  height:50vh;
+  height:24rem;
 }
