@@ -63,4 +63,17 @@
     margin-inline: -2rem;
   }
 
+  /* contents.css */
+  #observablehq-toc { 
+    nav {
+      padding-block-start: 1.5rem;
+      ol {
+        padding-block-end: 1rem;  
+      }
+      + div {
+        transform: translateY(5rem);
+      }
+    }
+  }
+
 }

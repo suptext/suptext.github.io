@@ -67,6 +67,8 @@ html {
       content: "";
       display: block;
       height: 0.5rem;
+
+      z-index: 9;
       margin-inline-end: -0.1rem;
       margin-inline-start: -0.05rem;
       border-bottom: solid 1px var(--theme-foreground-faint);
