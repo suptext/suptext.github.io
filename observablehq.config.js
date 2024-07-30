@@ -13,7 +13,7 @@ export default {
   title: "suptext",
   head, header, 
   footer: `<hr/><i>My thoughts on tools, language, development and what's behind them.</i><span class="copy"></>`,
-  toc: false,
+  toc: {show:false},
   search: false,
   typographer: true,
   theme: ["dark", "alt", "sun-faded"], // is overridden in css

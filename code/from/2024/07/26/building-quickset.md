@@ -1,5 +1,4 @@
 ---
-toc: false
 title: Building QuickSet
 style: "/type/post.css"
 ---

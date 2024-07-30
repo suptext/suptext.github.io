@@ -1,6 +1,9 @@
-@import url("../custom.css");  /* base style */
-@import url("../uses/heading.css");  /* overrides */
-@import url("../uses/progress.css"); /* features */
+@import url("../custom.css");
+/* base style */
+@import url("../uses/heading.css");
+/* overrides */
+@import url("../uses/progress.css");
+/* features */
 @import url("../uses/upward.css");
 
 /* customisation */
@@ -21,35 +24,17 @@
   max-width: calc(640px - 4rem);
 
   blockquote:first-of-type {
-    font-family:var(--serif);
-    font-weight:400;
-    font-size:20px;
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 20px;
   }
-  
+
   :is(p):last-child {
     margin-block-end: unset;
   }
 
 }
 
-@media (pointer:none),
-(pointer:coarse) {
-
-  #observablehq-main {
-    margin: -2rem -2rem 0 -2rem;
-    max-width: unset;
-
-    blockquote:first-of-type {
-      margin-inline:unset;
-      font-size:19px;
-    }
-  }
-
-  #observablehq-center header hr {
-    margin-inline: -2rem;
-  }
-
-}
 
 /* ... in the future -> see heading.css */
 
@@ -58,3 +43,88 @@
   --type: post;
 
 }*/
+
+
+
+#observablehq-toc {
+
+  display: block !important;
+  height: 2rem;
+  overflow: hidden;
+
+  transition: all 450ms;
+
+  right: unset;
+  left: calc(max(min(100% - 5.5rem, 648px - 2rem), calc(50% - 6rem)) - 192px + 2rem);
+
+  nav {
+
+    position: sticky;
+    top: 0;
+    margin: 0;
+    background-color: var(--theme-background-alt);
+    padding-block:1rem;
+  
+  }
+
+
+  .observablehq-secondary-link-highlight {
+
+    margin-top: 3.25rem;
+  }
+
+}
+
+.unfolder {
+  display: none;
+}
+
+.toggle-label {
+  display: block;
+  cursor: pointer;
+  font-size: 11px;
+  border-radius: 5px;
+  padding: 1rem;
+  font-size: 1rem;
+  text-align: end;
+}
+
+.unfolder~label .fold-icon {
+  display: none;
+}
+
+#observablehq-toc:has(.unfolder:checked)
+
+/* ~ :is(nav,nav + div)*/
+  {
+
+  height: 100%;
+}
+
+
+
+@media (pointer:none),
+(pointer:coarse) {
+
+  #observablehq-toc {
+
+
+    left: max(min(100% - 3.5rem, 648px - 2rem), calc(50% - 6rem));
+
+  }
+
+  #observablehq-main {
+    margin: -2rem -2rem 0 -2rem;
+    max-width: unset;
+
+    blockquote:first-of-type {
+      margin-inline: unset;
+      font-size: 19px;
+    }
+  }
+
+  #observablehq-center header hr {
+    margin-inline: -2rem;
+  }
+
+}
