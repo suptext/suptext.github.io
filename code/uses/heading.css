@@ -1,5 +1,5 @@
 #observablehq-main {
-  h1:first-child:has(+ h2) {
+  h1:first-of-type:has(+ h2) {
     font-size: 1.1em;
     font-family: var(--sans-serif);
     color: var(--theme-foreground);

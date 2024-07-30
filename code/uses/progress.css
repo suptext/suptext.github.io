@@ -35,12 +35,16 @@ html {
   animation-timeline: --page-scroll;
 }
 
-#observablehq-main h1:first-child {
+#observablehq-main h1:first-of-type {
 
   z-index: 10;
   position: relative;
   background-color: var(--theme-background-alt);
 
+  margin-inline: calc(-0.5rem);
+  border-inline: solid 0.5rem var(--theme-background-alt);
+
+  
   + h2 {
     position: sticky !important;
 

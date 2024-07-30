@@ -11,5 +11,9 @@ label.classList.add('toggle-label');
 
 label.textContent = '≡';
 
-document.querySelector('#observablehq-toc').insertAdjacentElement('afterbegin',label);
-document.querySelector('#observablehq-toc').insertAdjacentElement('afterbegin',toggle);
+let toc = document.querySelector('#observablehq-toc');
+  
+  toc.insertAdjacentElement('afterbegin',label);
+  toc.insertAdjacentElement('afterbegin',toggle);
+
+document.querySelector('#observablehq-main > h2:first-of-type').insertAdjacentElement("beforeend",toc);

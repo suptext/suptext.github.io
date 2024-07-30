@@ -1,0 +1,54 @@
+#observablehq-toc {
+   position: absolute;
+   display:unset;
+   
+   height:2rem;
+   top:-1rem;
+   overflow: hidden;
+
+   transition: all 250ms;
+   width:100%;
+
+   nav {
+      
+      backdrop-filter: blur(4px);
+      display:block;
+      padding-block: 1rem;
+      border:unset;
+      width:100%;
+
+      border-bottom: 1px solid var(--theme-foreground-faint);
+      margin:0;
+
+   }
+
+   nav + div {
+    transform:translateY(3.25rem);
+   }
+
+}
+
+.unfolder {
+    display: none;
+}
+
+.toggle-label {
+  display: block;
+  cursor: pointer;
+  font-size: 11px;
+  border-radius: 5px;
+  padding: 1rem;
+  font-size: 1rem;
+  text-align: end;
+  
+}
+
+.toggle-label:hover {
+    color:var(--theme-foreground-pop);
+}
+
+
+#observablehq-toc:has(.unfolder:checked) {
+
+  height:50vh;
+}

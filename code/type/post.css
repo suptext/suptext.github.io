@@ -6,6 +6,8 @@
 /* features */
 @import url("../uses/upward.css");
 
+@import url("../uses/contents.css");
+
 /* customisation */
 
 :is(h1:not(:nth-child(1)), h2:not(:nth-child(2)), h3, h4, h5, h6) {
@@ -44,74 +46,8 @@
 
 }*/
 
-
-
-#observablehq-toc {
-
-  display: block !important;
-  height: 2rem;
-  overflow: hidden;
-
-  transition: all 450ms;
-
-  right: unset;
-  left: calc(max(min(100% - 5.5rem, 648px - 2rem), calc(50% - 6rem)) - 192px + 2rem);
-
-  nav {
-
-    position: sticky;
-    top: 0;
-    margin: 0;
-    background-color: var(--theme-background-alt);
-    padding-block:1rem;
-  
-  }
-
-
-  .observablehq-secondary-link-highlight {
-
-    margin-top: 3.25rem;
-  }
-
-}
-
-.unfolder {
-  display: none;
-}
-
-.toggle-label {
-  display: block;
-  cursor: pointer;
-  font-size: 11px;
-  border-radius: 5px;
-  padding: 1rem;
-  font-size: 1rem;
-  text-align: end;
-}
-
-.unfolder~label .fold-icon {
-  display: none;
-}
-
-#observablehq-toc:has(.unfolder:checked)
-
-/* ~ :is(nav,nav + div)*/
-  {
-
-  height: 100%;
-}
-
-
-
 @media (pointer:none),
 (pointer:coarse) {
-
-  #observablehq-toc {
-
-
-    left: max(min(100% - 3.5rem, 648px - 2rem), calc(50% - 6rem));
-
-  }
 
   #observablehq-main {
     margin: -2rem -2rem 0 -2rem;
