@@ -3,6 +3,11 @@
 }
 
 /* prevent layout jumping */
+
+#observablehq-toc {
+  display:none!important;
+}
+
 #observablehq-toc ~ 
 #observablehq-center {
   padding-right:unset!important;
