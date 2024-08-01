@@ -125,7 +125,7 @@ For small notes this is trivial, but the amount of chunks that needed to be comp
 
 And as I was writing my thesis in Obisidian, some notes could become very long indeed. Could we devise a method that keeps track of frequent chunks as users edit their notes?
 
-## What's this path?
+## What's your path?
 At this point I'd come up with some requirements for producing a ranked list of word chunks as users edited their notes:
 
 1. Words and sentences needed to be represented as numbers somehow, as operating on numbers is more performant than operating on strings
