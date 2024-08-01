@@ -2,16 +2,25 @@
   display: none;
 }
 
-#observablehq-toc {
+/* prevent layout jumping */
+#observablehq-toc ~ 
+#observablehq-center {
+  padding-right:unset!important;
+} 
+
+/* only apply styles after JS positioning */
+
+#observablehq-toc.width-adjust {
+  display:block!important;
   position: absolute;
-  display: block !important;
 
   height: 2.25rem;
   top: 0;
   right: 0;
   overflow: hidden;
-  width: calc(100% + 4rem);
+
   margin-right: -2rem;
+  width: calc(100% + 4rem);
   
   pointer-events: none;
   transition: all 500ms ease;
