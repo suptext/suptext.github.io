@@ -7,7 +7,6 @@ toc: false
   <div class="card bookmark">
     <a rel="next" href="./more/2026/10/09/who-dares-to-ask">
       <h2>When all is answered, who dares to ask?</h2>
-      <h3>Of questions and questionhood</h3>
     </a>
   </div>
 
